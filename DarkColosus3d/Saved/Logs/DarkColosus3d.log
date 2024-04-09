@@ -2301,3 +2301,1161 @@ Make sure 'SunWukongPlayerCharacter' has been compiled for  Reset Orientation an
 [2024.04.09-15.03.39:651][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter_Auto2
 [2024.04.09-15.03.39:651][448]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/SunWukongPlayerCharacter_Auto25D4C86F04A7E9CB64B2549A90E70244F.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Autosaves/Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter_Auto2.uasset'
 [2024.04.09-15.03.39:651][448]LogFileHelpers: Auto-saving content packages took 0.222
+[2024.04.09-15.07.19:180][401]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.09-15.12.20:245][885]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.09-15.12.43:684][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset
+[2024.04.09-15.12.43:741][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/ABP_Manny.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/ABP_Manny.uasset
+[2024.04.09-15.12.43:752][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/ABP_Quinn.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset
+[2024.04.09-15.12.43:865][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Meshes/SK_Mannequin.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset
+[2024.04.09-15.12.43:882][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset
+[2024.04.09-15.12.43:885][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Fall_Loop.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset
+[2024.04.09-15.12.43:888][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Idle.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset
+[2024.04.09-15.12.43:892][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Jump.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset
+[2024.04.09-15.12.43:896][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Land.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset
+[2024.04.09-15.12.43:899][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Run_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset
+[2024.04.09-15.12.43:906][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset
+[2024.04.09-15.12.43:909][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset
+[2024.04.09-15.12.44:207][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset
+[2024.04.09-15.12.44:210][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/MF_Idle.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset
+[2024.04.09-15.12.44:213][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset
+[2024.04.09-15.12.44:217][634]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset
+[2024.04.09-15.12.44:423][634]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.04.09-15.12.44:437][634]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2024.04.09-15.12.44:440][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/IMC_Default.uasset".
+[2024.04.09-15.12.44:443][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap.umap".
+[2024.04.09-15.12.44:449][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2024.04.09-15.12.44:452][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2024.04.09-15.12.44:456][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2024.04.09-15.12.44:459][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/Actions/IA_Jump.uasset".
+[2024.04.09-15.12.44:462][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/Actions/IA_Look.uasset".
+[2024.04.09-15.12.44:464][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/Actions/IA_Move.uasset".
+[2024.04.09-15.12.44:468][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2024.04.09-15.12.44:471][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2024.04.09-15.12.44:474][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2024.04.09-15.12.44:477][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2024.04.09-15.12.44:480][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2024.04.09-15.12.44:483][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2024.04.09-15.12.44:486][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset".
+[2024.04.09-15.12.44:490][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2024.04.09-15.12.44:493][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2024.04.09-15.12.44:496][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2024.04.09-15.12.44:499][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2024.04.09-15.12.44:502][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset".
+[2024.04.09-15.12.44:505][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2024.04.09-15.12.44:508][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset".
+[2024.04.09-15.12.44:511][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2024.04.09-15.12.44:514][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2024.04.09-15.12.44:517][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2024.04.09-15.12.44:521][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2024.04.09-15.12.44:524][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2024.04.09-15.12.44:527][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2024.04.09-15.12.44:530][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2024.04.09-15.12.44:533][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2024.04.09-15.12.44:536][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2024.04.09-15.12.44:539][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2024.04.09-15.12.44:542][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2024.04.09-15.12.44:545][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2024.04.09-15.12.44:548][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2024.04.09-15.12.44:552][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2024.04.09-15.12.44:555][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2024.04.09-15.12.44:558][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2024.04.09-15.12.44:561][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2024.04.09-15.12.44:564][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2024.04.09-15.12.44:567][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2024.04.09-15.12.44:570][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2024.04.09-15.12.44:573][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2024.04.09-15.12.44:576][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2024.04.09-15.12.44:579][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2024.04.09-15.12.44:582][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2024.04.09-15.12.44:585][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2024.04.09-15.12.44:588][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2024.04.09-15.12.44:591][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2024.04.09-15.12.44:594][634]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset".
+[2024.04.09-15.12.44:597][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2024.04.09-15.12.44:600][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2024.04.09-15.12.44:603][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2024.04.09-15.12.44:607][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2024.04.09-15.12.44:610][634]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2024.04.09-15.12.44:627][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.12.44:716][634]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2024.04.09-15.12.44:716][634]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/ThirdPersonMap_BuiltDataE62D948E4FE5A6E473494B8032F74929.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2024.04.09-15.12.44:721][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 504 ms)
+[2024.04.09-15.12.44:815][634]AssetCheck: New page: Asset Save: ThirdPersonMap_BuiltData
+[2024.04.09-15.12.44:816][634]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2024.04.09-15.12.55:250][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/ABP_Manny.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/ABP_Manny.uasset
+[2024.04.09-15.12.55:253][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/ABP_Quinn.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset
+[2024.04.09-15.12.55:288][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset
+[2024.04.09-15.12.55:341][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Meshes/SK_Mannequin.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset
+[2024.04.09-15.12.55:394][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset
+[2024.04.09-15.12.55:397][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Fall_Loop.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset
+[2024.04.09-15.12.55:399][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Idle.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset
+[2024.04.09-15.12.55:405][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Jump.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset
+[2024.04.09-15.12.55:407][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Land.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset
+[2024.04.09-15.12.55:413][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset
+[2024.04.09-15.12.55:415][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Run_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset
+[2024.04.09-15.12.55:418][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/MF_Idle.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset
+[2024.04.09-15.12.55:420][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset
+[2024.04.09-15.12.55:433][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset
+[2024.04.09-15.12.55:440][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset
+[2024.04.09-15.12.55:458][852]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset to D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset
+[2024.04.09-15.12.55:770][852]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.04.09-15.12.55:772][852]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2024.04.09-15.12.55:774][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap.umap".
+[2024.04.09-15.12.55:778][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2024.04.09-15.12.55:781][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2024.04.09-15.12.55:784][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2024.04.09-15.12.55:786][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/IMC_Default.uasset".
+[2024.04.09-15.12.55:787][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/Actions/IA_Jump.uasset".
+[2024.04.09-15.12.55:787][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/Actions/IA_Look.uasset".
+[2024.04.09-15.12.55:788][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Input/Actions/IA_Move.uasset".
+[2024.04.09-15.12.55:788][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset".
+[2024.04.09-15.12.55:789][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2024.04.09-15.12.55:789][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2024.04.09-15.12.55:790][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2024.04.09-15.12.55:790][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2024.04.09-15.12.55:793][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset".
+[2024.04.09-15.12.55:794][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2024.04.09-15.12.55:794][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2024.04.09-15.12.55:795][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2024.04.09-15.12.55:796][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2024.04.09-15.12.55:796][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2024.04.09-15.12.55:797][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2024.04.09-15.12.55:797][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2024.04.09-15.12.55:798][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2024.04.09-15.12.55:798][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2024.04.09-15.12.55:799][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2024.04.09-15.12.55:800][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2024.04.09-15.12.55:802][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2024.04.09-15.12.55:803][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2024.04.09-15.12.55:803][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2024.04.09-15.12.55:804][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2024.04.09-15.12.55:805][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2024.04.09-15.12.55:805][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2024.04.09-15.12.55:808][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2024.04.09-15.12.55:808][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2024.04.09-15.12.55:809][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2024.04.09-15.12.55:810][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2024.04.09-15.12.55:810][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2024.04.09-15.12.55:811][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2024.04.09-15.12.55:811][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2024.04.09-15.12.55:812][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2024.04.09-15.12.55:813][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2024.04.09-15.12.55:813][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2024.04.09-15.12.55:814][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2024.04.09-15.12.55:814][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2024.04.09-15.12.55:815][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset".
+[2024.04.09-15.12.55:815][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2024.04.09-15.12.55:816][852]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset".
+[2024.04.09-15.12.55:817][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2024.04.09-15.12.55:817][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2024.04.09-15.12.55:818][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2024.04.09-15.12.55:818][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2024.04.09-15.12.55:819][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2024.04.09-15.12.55:820][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2024.04.09-15.12.55:820][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2024.04.09-15.12.55:821][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2024.04.09-15.12.55:821][852]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2024.04.09-15.12.55:831][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.12.55:887][852]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2024.04.09-15.12.55:887][852]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/ThirdPersonMap_BuiltData93C890194DCD795FFF89DDBAA0E4D280.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2024.04.09-15.12.55:891][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 565 ms)
+[2024.04.09-15.12.55:940][852]AssetCheck: New page: Asset Save: ThirdPersonMap_BuiltData
+[2024.04.09-15.12.55:940][852]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2024.04.09-15.13.02:584][628]LogSlate: Window 'Add Content to the Project' being destroyed
+[2024.04.09-15.16.55:171][899]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.09-15.16.55:176][899]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.09-15.16.56:485][  3]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.09-15.16.56:508][  3]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2024.04.09-15.16.56:508][  3]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2024.04.09-15.16.56:573][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.16.56:573][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.16.56:577][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.16.56:577][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.16.56:580][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.16.56:580][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.16.56:606][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.09-15.16.56:614][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:614][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.16.56:615][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:615][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_2.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.16.56:617][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:617][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.16.56:618][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:618][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.16.56:619][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.16.56:619][  3]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.16.56:640][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:640][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.16.56:641][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:641][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.16.56:643][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.16.56:643][  3]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.17.08:884][152]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.09-15.17.31:835][607]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.09-15.17.31:840][607]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.09-15.17.33:083][706]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.09-15.17.33:106][706]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2024.04.09-15.17.33:173][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.17.33:173][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.17.33:177][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.17.33:177][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.17.33:180][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.17.33:180][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.17.33:209][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.09-15.17.33:217][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:217][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.17.33:218][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:218][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.17.33:220][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:220][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.17.33:221][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:221][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_4.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.17.33:221][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.17.33:221][706]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.17.33:243][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:243][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.17.33:244][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:244][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.17.33:245][706]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.17.33:245][706]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_4.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.18.08:224][273]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.09-15.18.08:247][273]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2024.04.09-15.18.08:316][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.08:316][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.08:319][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.08:319][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.08:322][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.08:322][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.08:352][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.09-15.18.08:364][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:364][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.08:365][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:365][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.08:367][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:367][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_4.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.08:368][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:368][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_5.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.18.08:368][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.08:368][273]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.08:390][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:390][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.08:391][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:391][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.08:392][273]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.08:392][273]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_5.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.18.16:358][ 70]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.09-15.18.16:381][ 70]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2024.04.09-15.18.16:448][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.16:448][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.16:451][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.16:452][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.16:454][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.16:454][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.16:484][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.09-15.18.16:496][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:496][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.16:498][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:498][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.16:499][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:499][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_5.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.16:501][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:501][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_6.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.18.16:501][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.16:501][ 70]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.16:523][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:523][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.16:524][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:524][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.18.16:525][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.16:525][ 70]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_6.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.18.17:996][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.18.18:090][192]LogSavePackage: Moving output files for package: /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter
+[2024.04.09-15.18.18:090][192]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/SunWukongPlayerCharacterC96CAFC24A3AAF74A734D9B929AB2A4B.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.uasset'
+[2024.04.09-15.18.18:096][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 664 ms)
+[2024.04.09-15.18.18:097][192]AssetCheck: New page: Asset Save: SunWukongPlayerCharacter
+[2024.04.09-15.18.18:097][192]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.SunWukongPlayerCharacter
+[2024.04.09-15.18.35:931][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.18.36:039][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.09-15.18.36:051][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.04.09-15.18.36:052][341]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/ThirdPersonMap843B101E4D82C22C28078994D73BBA41.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.04.09-15.18.36:057][341]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.052
+[2024.04.09-15.18.36:060][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 793 ms)
+[2024.04.09-15.18.36:061][341]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.04.09-15.18.36:061][341]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.09-15.18.37:382][412]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-15.18.37:387][412]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-15.18.37:387][412]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.09-15.18.37:388][412]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 980 us (total: 4 ms)
+[2024.04.09-15.18.37:388][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-15.18.37:388][412]PIE: New page: PIE session: ThirdPersonMap (Apr. 9, 2024, 1:18:37 a.m.)
+[2024.04.09-15.18.37:389][412]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.09-15.18.37:398][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009323s)
+[2024.04.09-15.18.37:398][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009348s)
+[2024.04.09-15.18.37:411][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.09-15.18.37:412][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-15.18.37:412][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-15.18.37:412][412]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.09-15.18.37:413][412]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-15.18.37:413][412]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-15.18.37:413][412]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-15.18.37:413][412]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-15.18.37:415][412]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.09-15.18.37:415][412]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 178 ms)
+[2024.04.09-15.18.37:415][412]LogPlayLevel: PIE: World Init took: (0.003056s)
+[2024.04.09-15.18.37:415][412]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-15.18.37:415][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-15.18.37:415][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-15.18.37:415][412]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-15.18.37:415][412]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-15.18.37:415][412]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-15.18.37:417][412]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-15.18.37:434][412]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.09-15.18.37:434][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-15.18.37:434][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-15.18.37:434][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-15.18.37:434][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.09-15.18.37:434][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.09-15.18.37:436][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.09-15.18.37:436][412]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.09-15.18.37:436][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.09-15.18.37:436][412]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.04.09-15.18.37:436][412]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.09-15.18.37:438][412]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.09-15.18.37:442][412]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.09-08.18.37
+[2024.04.09-15.18.37:442][412]LogWorld: Bringing up level for play took: 0.004023
+[2024.04.09-15.18.37:444][412]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.04.09-15.18.37:445][412]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.18.37:446][412]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.18.37:446][412]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.18.37:446][412]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.18.37:448][412]PIE: Server logged in
+[2024.04.09-15.18.37:449][412]PIE: Play in editor total start time 0.062 seconds.
+[2024.04.09-15.18.39:728][530]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.09-15.19.03:872][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-15.19.03:872][811]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.09-15.19.03:872][811]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.19.03:873][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.19.03:873][811]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.09-15.19.03:876][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-15.19.03:880][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.19.03:892][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-15.19.03:892][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.09-15.19.03:892][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.09-15.19.03:894][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.09-15.19.03:901][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.09-15.19.03:929][812]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.09-15.20.41:975][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.41:975][537]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.41:977][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.41:977][537]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.41:978][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.41:978][537]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_6.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.20.41:979][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.41:979][537]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.41:981][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.41:981][537]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.41:982][537]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.41:982][537]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_6.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.20.45:078][837]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.09-15.20.45:101][837]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2024.04.09-15.20.45:166][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.20.45:166][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.20.45:170][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.20.45:170][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.20.45:173][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.20.45:173][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.20.45:199][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.09-15.20.45:212][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:212][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.45:214][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:214][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.45:215][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:215][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_6.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.45:216][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:216][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_7.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.20.45:216][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.20.45:216][837]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.20.45:238][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:238][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.45:239][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:239][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.20.45:240][837]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.45:240][837]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_7.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.20.52:232][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-15.20.52:236][490]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-15.20.52:236][490]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.09-15.20.52:237][490]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 933 us (total: 5 ms)
+[2024.04.09-15.20.52:237][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-15.20.52:238][490]PIE: New page: PIE session: ThirdPersonMap (Apr. 9, 2024, 1:20:52 a.m.)
+[2024.04.09-15.20.52:238][490]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.09-15.20.52:247][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009118s)
+[2024.04.09-15.20.52:247][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009139s)
+[2024.04.09-15.20.52:262][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.09-15.20.52:267][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-15.20.52:268][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-15.20.52:268][490]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.09-15.20.52:268][490]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-15.20.52:268][490]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-15.20.52:268][490]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-15.20.52:268][490]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-15.20.52:270][490]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.09-15.20.52:270][490]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 180 ms)
+[2024.04.09-15.20.52:270][490]LogPlayLevel: PIE: World Init took: (0.003014s)
+[2024.04.09-15.20.52:270][490]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-15.20.52:271][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-15.20.52:271][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-15.20.52:271][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-15.20.52:271][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-15.20.52:271][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-15.20.52:273][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-15.20.52:289][490]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.09-15.20.52:289][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-15.20.52:289][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-15.20.52:289][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-15.20.52:289][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.09-15.20.52:289][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.09-15.20.52:291][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.09-15.20.52:291][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.09-15.20.52:291][490]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.09-15.20.52:291][490]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.04.09-15.20.52:291][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.09-15.20.52:350][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-15.20.52:350][490]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.09-15.20.52:354][490]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.09-08.20.52
+[2024.04.09-15.20.52:354][490]LogWorld: Bringing up level for play took: 0.004373
+[2024.04.09-15.20.52:356][490]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.09-15.20.52:358][490]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.20.52:358][490]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.20.52:358][490]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.20.52:358][490]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.20.52:364][490]PIE: Server logged in
+[2024.04.09-15.20.52:368][490]PIE: Play in editor total start time 0.131 seconds.
+[2024.04.09-15.20.52:383][490]LogViewport: Scene viewport resized to 3831x2040, mode Windowed.
+[2024.04.09-15.20.54:591][575]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.09-15.21.25:971][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-15.21.25:971][885]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.09-15.21.25:972][885]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.09-15.21.25:982][885]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.21.25:983][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.21.25:983][885]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.09-15.21.25:985][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-15.21.25:990][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.21.26:005][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-15.21.26:005][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.09-15.21.26:005][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.09-15.21.26:007][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.09-15.21.26:013][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.09-15.21.26:053][887]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.09-15.21.43:786][734]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.09-15.21.43:809][734]LogBlueprint: Warning: [AssetLog] D:\Unreal Projects\DarkColosus\DarkColosus\DarkColosus3d\Content\ParagonSunWukong\Characters\Heroes\Wukong\SunWukongPlayerCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2024.04.09-15.21.43:876][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.21.43:876][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.21.43:880][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.21.43:880][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.21.43:883][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.21.43:883][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.21.43:913][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.09-15.21.43:921][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:921][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.21.43:923][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:923][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.21.43:924][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:924][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_7.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.21.43:925][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:925][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_8.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.21.43:926][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.09-15.21.43:926][734]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.09-15.21.43:948][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:948][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_21:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.21.43:949][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:949][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_23:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.09-15.21.43:950][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.09-15.21.43:950][734]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_8:PersistentLevel.SunWukongPlayerCharacter_C_8.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.09-15.21.50:848][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.21.50:979][322]LogSavePackage: Moving output files for package: /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter
+[2024.04.09-15.21.50:979][322]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/SunWukongPlayerCharacterADF5C0C64205883751791C90080DE0C8.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.uasset'
+[2024.04.09-15.21.50:986][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 932 ms)
+[2024.04.09-15.21.50:987][322]AssetCheck: New page: Asset Save: SunWukongPlayerCharacter
+[2024.04.09-15.21.50:987][322]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.SunWukongPlayerCharacter
+[2024.04.09-15.21.58:945][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.21.58:992][ 81]LogSavePackage: Moving output files for package: /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter
+[2024.04.09-15.21.58:992][ 81]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/SunWukongPlayerCharacter8B2034D749F133665573C88DB79D8DC5.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.uasset'
+[2024.04.09-15.21.58:999][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 985 ms)
+[2024.04.09-15.21.58:999][ 81]AssetCheck: New page: Asset Save: SunWukongPlayerCharacter
+[2024.04.09-15.21.59:000][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.SunWukongPlayerCharacter
+[2024.04.09-15.22.06:852][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.09-15.22.08:605][669]LogSlate: Window 'Save Content' being destroyed
+[2024.04.09-15.22.08:631][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-15.22.08:680][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TestGameMode" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/TestGameMode.uasset" SILENT=true
+[2024.04.09-15.22.08:681][669]LogSavePackage: Moving output files for package: /Game/Blueprints/TestGameMode
+[2024.04.09-15.22.08:682][669]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/TestGameMode15229DAA43BCAA5545BE1CAE31B1C8DC.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/TestGameMode.uasset'
+[2024.04.09-15.22.08:685][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.03 sec)
+[2024.04.09-15.22.08:685][669]LogStall: Shutdown...
+[2024.04.09-15.22.08:691][669]LogStall: Shutdown complete.
+[2024.04.09-15.22.08:741][669]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:741][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:816][669]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:816][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:826][669]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:826][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:874][669]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:874][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:885][669]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:885][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:894][669]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:894][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:929][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.09-15.22.08:929][669]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:929][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.08:975][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.09-15.22.08:975][669]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.08:975][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.09:025][669]LogSlate: Window 'DarkColosus3d - Unreal Editor' being destroyed
+[2024.04.09-15.22.09:118][669]AssetCheck: New page: Asset Save: TestGameMode
+[2024.04.09-15.22.09:118][669]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TestGameMode.TestGameMode
+[2024.04.09-15.22.09:120][670]Cmd: QUIT_EDITOR
+[2024.04.09-15.22.09:120][670]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.09-15.22.09:124][670]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.09-15.22.09:124][670]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.09-15.22.09:124][670]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.09-15.22.09:126][670]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.09:126][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-15.22.09:126][670]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.09-15.22.09:131][670]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.09-15.22.09:455][670]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.09-15.22.09:455][670]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.09-15.22.09:455][670]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.04.09-15.22.09:455][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.09-15.22.09:455][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.09-15.22.09:457][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.09-15.22.09:461][670]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.09-15.22.09:464][670]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.09-15.22.09:464][670]LogExit: Preparing to exit.
+[2024.04.09-15.22.09:489][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.09:525][670]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.09-15.22.10:559][670]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:561][670]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:563][670]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:565][670]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:566][670]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:568][670]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:569][670]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:570][670]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:572][670]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:573][670]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:574][670]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:576][670]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:577][670]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:578][670]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-15.22.10:709][670]LogExit: Editor shut down
+[2024.04.09-15.22.10:710][670]LogExit: Transaction tracking system shut down
+[2024.04.09-15.22.10:730][670]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.09-15.22.10:843][670]LogExit: Object subsystem successfully closed.
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: ================================================
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Total job queries 1,318, among them cache hits 517 (39.23%)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Tracking 793 distinct input hashes that result in 561 distinct outputs (70.74%)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: RAM used: 19.64 MiB of 6.40 GiB budget. Usage: 0.30%
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Shaders Compiled: 549
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Jobs assigned 549, completed 549 (100%)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Average time worker was idle: 10.50 s
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Time job spent in pending queue: average 5.47 s, longest 18.72 s
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 2.91 s
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Job life time (pending + execution): average 5.93 s, max 19.44
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Shader code size: average 37.463 KiB, min 4.465 KiB, max 91.914 KiB
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.51 s
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Jobs were issued in 549 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Average processing rate: 13.55 jobs/sec
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Total thread time: 195.084 s
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Total thread preprocess time: 16.329 s
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Percentage time preprocessing: 8.37%
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Effective parallelization: 4.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   48 times, average 0.58 sec, max 1.63 sec, min 0.25 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   30 times, average 0.50 sec, max 1.29 sec, min 0.20 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled   30 times, average 0.42 sec, max 1.94 sec, min 0.09 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   40 times, average 0.42 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   48 times, average 0.41 sec, max 1.49 sec, min 0.20 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 14.38% of total time (compiled   48 times, average 0.58 sec, max 1.63 sec, min 0.25 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 10.43% of total time (compiled   53 times, average 0.38 sec, max 1.87 sec, min 0.20 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.08% of total time (compiled   48 times, average 0.41 sec, max 1.49 sec, min 0.20 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.58% of total time (compiled   40 times, average 0.42 sec, max 1.89 sec, min 0.23 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.66% of total time (compiled   30 times, average 0.50 sec, max 1.29 sec, min 0.20 sec)
+[2024.04.09-15.22.10:848][670]LogShaderCompilers: Display: ================================================
+[2024.04.09-15.22.10:918][670]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.09-15.22.10:931][670]LogVirtualization: UE::Virtualization was shutdown
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1068)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1066)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module Voice (1064)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (1062)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1060)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1058)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module AnimationEditor (1056)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1054)
+[2024.04.09-15.22.10:960][670]LogModuleManager: Shutting down and abandoning module WebBrowser (1052)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module AddContentDialog (1050)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1049)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1046)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module SceneOutliner (1044)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module StatusBar (1042)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1040)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1038)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1036)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module StatsViewer (1034)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1032)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module AutomationWorker (1030)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module PlanarCut (1028)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module FractureEngine (1026)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module CharacterAI (1024)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module SmartSnapping (1022)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1020)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module BspMode (1018)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module GeometryMode (1016)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1014)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1012)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module RigVMEditor (1010)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1008)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1006)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1004)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1002)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1000)
+[2024.04.09-15.22.10:994][670]LogModuleManager: Shutting down and abandoning module IKRigEditor (998)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module ControlRigEditor (996)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (994)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (992)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (990)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (988)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module WebMMedia (986)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (984)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (982)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module SequenceRecorder (981)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (978)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (976)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (974)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (972)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (970)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (968)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (966)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (964)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (962)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (960)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module SessionServices (958)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module MeshPaint (956)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (954)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module PlacementMode (953)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module FoliageEdit (950)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module LandscapeEditor (948)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (946)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module ActorPickerMode (944)
+[2024.04.09-15.22.10:995][670]LogModuleManager: Shutting down and abandoning module ViewportSnapping (942)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module EditorWidgets (940)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module ViewportInteraction (938)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module ClothPainter (936)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (935)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module WidgetRegistration (932)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module LogVisualizer (930)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (928)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (926)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (925)
+[2024.04.09-15.22.10:996][670]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (923)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (920)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (918)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (916)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (914)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (912)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (910)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module AnimationSettings (908)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (906)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module CSVtoSVG (904)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (902)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module EditorConfig (900)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module EditorFramework (898)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (896)
+[2024.04.09-15.22.11:354][670]LogModuleManager: Shutting down and abandoning module TraceInsights (894)
+[2024.04.09-15.22.11:354][670]MemoryProfiler: Shutdown
+[2024.04.09-15.22.11:354][670]NetworkingProfiler: Shutdown
+[2024.04.09-15.22.11:354][670]LoadingProfiler: Shutdown
+[2024.04.09-15.22.11:354][670]TimingProfiler: Shutdown
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module TraceServices (893)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module TraceAnalysis (892)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (888)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (887)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module InputBindingEditor (884)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module MergeActors (882)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (880)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module LocalizationService (879)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module HardwareTargeting (876)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (874)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module UndoHistory (872)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module XmlParser (870)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module Blutility (868)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (866)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (865)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (862)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (861)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module SettingsEditor (858)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module ProjectLauncher (856)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module SessionFrontend (854)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module ProfilerClient (852)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module DeviceManager (850)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module AutomationController (848)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module AutomationWindow (846)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module Layers (844)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (842)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module DetailCustomizations (840)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module PackagesDialog (838)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (836)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module Persona (834)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (833)
+[2024.04.09-15.22.11:355][670]LogModuleManager: Shutting down and abandoning module Kismet (830)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module KismetWidgets (829)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module GraphEditor (826)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module StructViewer (824)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (822)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (820)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module SourceControlWindows (818)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module OutputLog (816)
+[2024.04.09-15.22.11:362][670]LogModuleManager: Shutting down and abandoning module Documentation (814)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (812)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (810)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module MovieScene (808)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (806)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (804)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (802)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module AudioMixer (801)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module AudioMixerCore (800)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module LauncherPlatform (796)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module AnalyticsET (794)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module PortalServices (792)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module PortalRpc (790)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module MessagingRpc (788)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module AIModule (786)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module GameplayDebugger (785)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module AITestSuite (783)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module NavigationSystem (781)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (778)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (776)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module TypedElementFramework (774)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (772)
+[2024.04.09-15.22.11:363][670]LogModuleManager: Shutting down and abandoning module ProfilerService (770)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (768)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (766)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (764)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (762)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (760)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module TakesCore (758)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module MegascansPlugin (756)
+[2024.04.09-15.22.11:420][670]LogModuleManager: Shutting down and abandoning module Bridge (754)
+[2024.04.09-15.22.11:421][670]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imd1eS5sYXBlbnNlZTgyQGdtYWlsLmNvbSIsInNjb3BlIjpbImRlZmF1bHQ6dXNlciIsIm1lZ2FzY2Fuczp1c2VyIl0sImVwaWNBY2NvdW50SWQiOiIzZWQzYWVjYjE4MmE0OGRjOGNkNzZkZjEwYWM2MmZkNiIsImlzVW5yZWFsRVVMQUFjY2VwdGVkIjp0cnVlLCJpc0VwaWNBY2NvdW50Ijp0cnVlLCJxdWl4ZWxBY2NvdW50SWQiOiIxOGY5ZTYyYy1mY2U3LTQ2ZTMtYTI1NS1mZTcwNDMxNThmOGIiLCJyZWFsbSI6Im1lZ2FzY2FucyIsImV1bGFzQWNjZXB0ZWQiOlsiZXBpY19jb250ZW50IiwidWUiXSwiaWF0IjoxNzEyNjAwMDQ4LCJleHAiOjE3MTI2Mjg4NDgsImlzcyI6InF1aXhlbC1zc28tcHJvZCIsImp0aSI6ImJiNjRiNDIwLWViZWEtNDI1Ni1iYmMzLWI1ODE3YzBlYTRlOSJ9.H8QYIacoQokt8Kx1kID2bBrVZhtZZHN55ad7_c2yNLsMQmoVx4PpciwljwT62i6R0p6qjnLKcVKJ8Wm_Sld4LHm8SoyV1F1MJBzmKIzZUDGvRR2RkhViRAKV0gM-RF5ycMDk7bORVxIvLLmWSAOD6H_33ITFPILtQC1XsWNEA3FA8gG1rtnNpZZ3NoAB3n6lyXm90UMAe7MKXYS1tgKc5PANXR7Yu36uEbLeuhElbUcnqb9hWk4UHwXdQDajB12BqJfU2JU1w-zZk5lwr9skgB06bP6gRMgIztd38NrHUCBbCGRXuUe_1TLF0AkPn6-1t1-G5Asc6cLaOvKs8R4Qsw&refreshToken=MWNjNTA1NDUtMjNhZS00OWJkLWExNmYtMDViNzIwZjVlNTA1#/.
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (752)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (750)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module LightMixer (748)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (744)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (740)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (738)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (736)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (734)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (732)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (730)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (728)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (726)
+[2024.04.09-15.22.11:421][670]LogOpenImageDenoise: OIDN shutting down
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (724)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (722)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (720)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (718)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (716)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module MeshLODToolset (714)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (712)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module LocalizableMessage (710)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (708)
+[2024.04.09-15.22.11:421][670]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (706)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (704)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (702)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (700)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (699)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (697)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (694)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module DataflowNodes (692)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (690)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module DataflowEditor (688)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module FractureEditor (686)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (684)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ChaosNiagara (682)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (680)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (678)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module BackChannel (676)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (674)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AutomationUtils (672)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (670)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (668)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module Paper2DEditor (666)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (662)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (660)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (658)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module UVEditorTools (656)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module UVEditor (654)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (652)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module PluginBrowser (650)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (648)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (646)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (644)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (642)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (640)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module EditorDebugTools (638)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module CurveEditorTools (636)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (634)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module CryptoKeys (632)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (630)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ChangelistReview (628)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module SynthesisEditor (626)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ResonanceAudio (624)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (622)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (620)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (618)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ModelingOperators (616)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (614)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ModelingComponents (612)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryFramework (611)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (608)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module MeshModelingTools (606)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (604)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module InputDebugging (602)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GooglePAD (600)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module DynamicMesh (598)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (596)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (594)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (592)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (590)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AudioCapture (588)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (587)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (584)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (582)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AppleImageUtils (580)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AssetTags (578)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module AndroidPermission (576)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (574)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (572)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (570)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (568)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module UObjectPlugin (566)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (564)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (562)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module PluginUtils (560)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (558)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module GitSourceControl (556)
+[2024.04.09-15.22.11:422][670]LogModuleManager: Shutting down and abandoning module DumpGPUServices (554)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (552)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (550)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (548)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeTests (546)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module VariantManager (544)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (543)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (540)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module ControlRigSpline (538)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (536)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (534)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module TakeSequencer (532)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module TakeMovieScene (530)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (528)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (526)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (524)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (522)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeExport (520)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeMessages (518)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module GLTFCore (516)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (514)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (512)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InterchangeEditor (510)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (508)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module MediaPlate (506)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module MediaCompositing (504)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module ImgMedia (502)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module AlembicImporter (500)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module AlembicLibrary (499)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module GeometryCache (498)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (497)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (492)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module SequencerScripting (490)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module TemplateSequence (488)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (486)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (484)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module TraceUtilities (482)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (480)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (478)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module InputEditor (476)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module DarkColosus3d (474)
+[2024.04.09-15.22.11:423][670]LogModuleManager: Shutting down and abandoning module ClassViewer (473)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module StructUtils (470)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (468)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module PBIK (466)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module FullBodyIK (464)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (462)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module TakeRecorder (461)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module ChaosCaching (458)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module Paper2D (456)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (454)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module Niagara (452)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module NiagaraEditor (451)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module NiagaraCore (448)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (446)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module FacialAnimation (444)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (442)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module DataValidation (440)
+[2024.04.09-15.22.11:426][670]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (438)
+[2024.04.09-15.22.11:427][670]LogModuleManager: Shutting down and abandoning module LevelEditor (437)
+[2024.04.09-15.22.11:429][670]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (436)
+[2024.04.09-15.22.11:429][670]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (434)
+[2024.04.09-15.22.11:429][670]LogModuleManager: Shutting down and abandoning module MainFrame (432)
+[2024.04.09-15.22.11:429][670]LogModuleManager: Shutting down and abandoning module HotReload (431)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module ContentBrowser (427)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module ContentBrowserData (426)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module TreeMap (423)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module Synthesis (420)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module SoundFields (418)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module SignificanceManager (416)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (414)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module RigVM (412)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (410)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (408)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (406)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundEditor (404)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module ToolMenus (403)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AudioWidgets (401)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (400)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (396)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundEngine (394)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module WaveTable (393)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (391)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (388)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (386)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (384)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (382)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (380)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (378)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module CableComponent (376)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (374)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (373)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module SignalProcessing (369)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module GameplayCameras (366)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (364)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (362)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module AnimationSharing (360)
+[2024.04.09-15.22.11:430][670]LogModuleManager: Shutting down and abandoning module TcpMessaging (358)
+[2024.04.09-15.22.11:531][670]LogModuleManager: Shutting down and abandoning module UdpMessaging (356)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (354)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module IKRig (352)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (350)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module ControlRig (348)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module Constraints (347)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module LevelSequence (345)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module AnimationData (342)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module InterchangePipelines (340)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module InterchangeImport (338)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (336)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module InterchangeNodes (334)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (332)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (330)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.04.09-15.22.11:631][670]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.04.09-15.22.11:632][670]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.04.09-15.22.11:633][670]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.04.09-15.22.11:639][670]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.04.09-15.22.11:639][670]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.04.09-15.22.11:639][670]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.04.09-15.22.11:639][670]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.04.09-15.22.11:639][670]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.04.09-15.22.11:639][670]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.04.09-15.22.11:640][670]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.04.09-15.22.11:651][670]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.04.09-15.22.11:651][670]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.04.09-15.22.11:651][670]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.04.09-15.22.11:651][670]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.04.09-15.22.11:653][670]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.04.09-15.22.11:653][670]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.04.09-15.22.11:653][670]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module ChaosCloth (122)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (120)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (118)
+[2024.04.09-15.22.11:654][670]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (116)
+[2024.04.09-15.22.11:655][670]LogModuleManager: Shutting down and abandoning module XMPP (111)
+[2024.04.09-15.22.11:655][670]LogModuleManager: Shutting down and abandoning module WebSockets (110)
+[2024.04.09-15.22.11:669][670]LogModuleManager: Shutting down and abandoning module HTTP (107)
+[2024.04.09-15.22.11:669][670]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.04.09-15.22.11:669][670]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7BE935A1-4872-E9A6-A3A5-1B959EE8736D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a4faf9ea49f59563ba518e85411b8fdc%7C3ed3aecb182a48dc8cd76df10ac62fd6%7Cadf47555-85d5-4fe2-a99a-f453ba5764c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.04.09-15.22.11:692][670]LogModuleManager: Shutting down and abandoning module SSL (106)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (102)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (100)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (98)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (92)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (90)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module ChunkDownloader (88)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (86)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (84)
+[2024.04.09-15.22.11:693][670]RenderDocPlugin: plugin has been unloaded.
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module PixWinPlugin (82)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module VariantManagerContent (80)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module GLTFExporter (78)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module ACLPlugin (74)
+[2024.04.09-15.22.11:693][670]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.04.09-15.22.11:695][670]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.04.09-15.22.11:696][670]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.04.09-15.22.11:697][670]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.04.09-15.22.11:698][670]LogPakFile: Destroying PakPlatformFile
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.04.09-15.22.11:698][670]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.04.09-15.22.11:925][670]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.04.09-15.22.11:974][670]LogExit: Exiting.
+[2024.04.09-15.22.12:003][670]Log file closed, 04/09/24 08:22:12
