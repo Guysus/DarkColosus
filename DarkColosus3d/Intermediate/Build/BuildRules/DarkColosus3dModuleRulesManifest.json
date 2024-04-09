@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\DarkColosus\\DarkColosus3d\\Source\\DarkColosus3d\\DarkColosus3d.Build.cs",
+		"D:\\Unreal Projects\\DarkColosus\\DarkColosus3d\\Source\\DarkColosus3d.Target.cs",
+		"D:\\Unreal Projects\\DarkColosus\\DarkColosus3d\\Source\\DarkColosus3dEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

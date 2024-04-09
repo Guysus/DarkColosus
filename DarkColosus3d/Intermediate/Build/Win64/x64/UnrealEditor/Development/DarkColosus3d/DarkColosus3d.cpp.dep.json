@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\darkcolosus\\darkcolosus3d\\source\\darkcolosus3d\\darkcolosus3d.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\darkcolosus\\darkcolosus3d\\intermediate\\build\\win64\\x64\\darkcolosus3deditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\darkcolosus\\darkcolosus3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\darkcolosus3d\\definitions.darkcolosus3d.h",
+            "d:\\unreal projects\\darkcolosus\\darkcolosus3d\\source\\darkcolosus3d\\darkcolosus3d.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

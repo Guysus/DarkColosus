@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DarkColosus3d",
+			"Path": "..\\Source\\DarkColosus3d.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DarkColosus3dEditor",
+			"Path": "..\\Source\\DarkColosus3dEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
