@@ -2756,3 +2756,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-15.49.59:206][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2024.04.11-15.49.59:329][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2024.04.11-15.49.59:409][ 17]LogViewport: Scene viewport resized to 1038x642, mode Windowed.
+[2024.04.11-15.53.50:538][993]LogSlate: Took 0.000722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.11-15.53.56:375][169]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TestGameMode.TestGameMode
+[2024.04.11-15.53.56:375][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.11-15.53.56:375][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
