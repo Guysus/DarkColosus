@@ -1500,3 +1500,537 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-02.41.32:429][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 747 ms)
 [2024.04.14-02.41.32:431][608]AssetCheck: New page: Asset Save: MainMenu
 [2024.04.14-02.41.32:431][608]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-02.42.56:337][140]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.14-02.42.56:341][140]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.14-02.43.12:895][641]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.43.12:895][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.43.12:902][641]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.43.12:902][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.43.14:578][702]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.43.14:578][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.43.14:584][702]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.43.14:584][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.43.16:162][763]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.43.16:162][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.43.18:198][839]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.43.18:199][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.43.57:576][102]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Main_Menu.BP_Main_Menu
+[2024.04.14-02.43.57:576][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-02.43.57:576][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-02.44.00:436][191]LogSlate: Window 'BP_Main_Menu' being destroyed
+[2024.04.14-02.44.00:445][191]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.44.00:445][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.44.00:462][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Main_Menu.BP_Main_Menu
+[2024.04.14-02.44.00:463][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-02.44.00:463][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-02.44.43:781][765]BlueprintLog: New page: Compile BP_Main_Menu
+[2024.04.14-02.44.43:806][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.14-02.44.43:818][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.44.43:847][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Main_Menu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset" SILENT=true
+[2024.04.14-02.44.43:850][765]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Main_Menu
+[2024.04.14-02.44.43:850][765]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Main_Menu655F43C4494E3ED11671978AC38CF5E0.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset'
+[2024.04.14-02.44.43:854][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 783 ms)
+[2024.04.14-02.44.43:858][765]AssetCheck: New page: Asset Save: BP_Main_Menu
+[2024.04.14-02.44.43:858][765]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Main_Menu.BP_Main_Menu
+[2024.04.14-02.44.47:505][912]LogViewport: Scene viewport resized to 2287x1131, mode Windowed.
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: ================================================
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Total job queries 323, among them cache hits 75 (23.22%)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Tracking 248 distinct input hashes that result in 201 distinct outputs (81.05%)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: RAM used: 6.32 MiB of 6.40 GiB budget. Usage: 0.10%
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 0.71 s
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 0.75
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Shader code size: average 46.035 KiB, min 36.211 KiB, max 55.859 KiB
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.75 s
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Average processing rate: 1.33 jobs/sec
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Total thread time: 0.497 s
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Total thread preprocess time: 0.025 s
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Percentage time preprocessing: 4.95%
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Effective parallelization: 0.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 57.80% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 42.20% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.04.14-02.44.47:613][913]LogShaderCompilers: Display: ================================================
+[2024.04.14-02.44.47:660][913]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.14-02.44.49:253][ 78]LogSlate: Window 'BP_Main_Menu' being destroyed
+[2024.04.14-02.45.21:064][856]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.14-02.45.56:239][952]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.46.27:871][707]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.46.52:046][602]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.14-02.46.52:046][602]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.14-02.47.10:863][853]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-02.47.10:882][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.14-02.47.11:000][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.47.11:038][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.47.11:041][853]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.47.11:041][853]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu60BB0E8648349155BC24779A6CEABD77.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.47.11:045][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 828 ms)
+[2024.04.14-02.47.11:053][853]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.47.11:053][853]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.47.14:632][271]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-02.47.14:638][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-02.47.14:638][271]PIE: New page: PIE session: MainMenu (Apr. 13, 2024, 12:47:14 p.m.)
+[2024.04.14-02.47.14:639][271]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.47.14:660][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021365s)
+[2024.04.14-02.47.14:660][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/MainMenu.MainMenu to /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu (0.021399s)
+[2024.04.14-02.47.14:673][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.14-02.47.14:676][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-02.47.14:676][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-02.47.14:677][271]LogAIModule: Creating AISystem for world MainMenu
+[2024.04.14-02.47.14:677][271]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2024.04.14-02.47.14:677][271]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-02.47.14:677][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-02.47.14:677][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-02.47.14:678][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-02.47.14:678][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-02.47.14:678][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-02.47.14:679][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-02.47.14:696][271]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-02.47.14:696][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-02.47.14:696][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-02.47.14:696][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-02.47.14:696][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.14-02.47.14:696][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.14-02.47.14:698][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.14-02.47.14:698][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.14-02.47.14:698][271]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.14-02.47.14:698][271]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2024.04.14-02.47.14:698][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.14-02.47.14:740][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.47.14:740][271]LogLoad: Game class is 'BP_Main_Menu_C'
+[2024.04.14-02.47.14:753][271]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-02.47.14:753][271]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-02.47.14:755][271]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.04.13-19.47.14
+[2024.04.14-02.47.14:755][271]LogWorld: Bringing up level for play took: 0.014816
+[2024.04.14-02.47.14:757][271]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.04.14-02.47.14:757][271]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.14-02.47.14:758][271]LogLevelSequence: Starting new camera cut: 'CameraActor_2'
+[2024.04.14-02.47.14:761][271]PIE: Server logged in
+[2024.04.14-02.47.14:763][271]PIE: Play in editor total start time 0.126 seconds.
+[2024.04.14-02.47.14:780][271]LogViewport: Scene viewport resized to 3831x2200, mode Windowed.
+[2024.04.14-02.47.15:678][295]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.14-02.47.16:984][341]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-02.47.23:570][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.47.23:570][583]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.47.23:570][583]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.14-02.47.23:587][583]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.47.23:589][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.47.23:592][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-02.47.23:598][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.47.23:614][583]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.14-02.47.23:614][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.14-02.47.23:616][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.14-02.47.23:626][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.14-02.47.23:733][584]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.04.14-02.47.37:507][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.47.37:587][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.14-02.47.37:682][504]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/MainMenu
+[2024.04.14-02.47.37:682][504]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/MainMenu3C608CE34B913CB3A26A08910ABE528C.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Levels/MainMenu.umap'
+[2024.04.14-02.47.37:691][504]LogFileHelpers: Saving map 'MainMenu' took 0.139
+[2024.04.14-02.47.37:695][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 1.01 sec)
+[2024.04.14-02.47.37:697][504]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.14-02.47.37:697][504]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-02.47.39:888][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-02.47.39:895][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-02.47.39:895][628]PIE: New page: PIE session: MainMenu (Apr. 13, 2024, 12:47:39 p.m.)
+[2024.04.14-02.47.39:895][628]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.47.39:915][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020836s)
+[2024.04.14-02.47.39:915][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/MainMenu.MainMenu to /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu (0.020864s)
+[2024.04.14-02.47.39:929][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.14-02.47.39:930][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-02.47.39:931][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-02.47.39:931][628]LogAIModule: Creating AISystem for world MainMenu
+[2024.04.14-02.47.39:931][628]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2024.04.14-02.47.39:931][628]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-02.47.39:931][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-02.47.39:931][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-02.47.39:932][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-02.47.39:932][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-02.47.39:932][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-02.47.39:933][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-02.47.39:950][628]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-02.47.39:950][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-02.47.39:950][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-02.47.39:950][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-02.47.39:950][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.14-02.47.39:950][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.14-02.47.39:952][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.14-02.47.39:952][628]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.14-02.47.39:952][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.14-02.47.39:952][628]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2024.04.14-02.47.39:952][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.14-02.47.39:955][628]LogLoad: Game class is 'BP_Main_Menu_C'
+[2024.04.14-02.47.39:966][628]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-02.47.39:966][628]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-02.47.39:968][628]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.04.13-19.47.39
+[2024.04.14-02.47.39:969][628]LogWorld: Bringing up level for play took: 0.013903
+[2024.04.14-02.47.39:971][628]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.04.14-02.47.39:972][628]LogLevelSequence: Starting new camera cut: 'CameraActor_2'
+[2024.04.14-02.47.39:972][628]PIE: Server logged in
+[2024.04.14-02.47.39:973][628]PIE: Play in editor total start time 0.079 seconds.
+[2024.04.14-02.47.42:250][759]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-02.47.45:223][931]LogLevelSequence: Starting new camera cut: 'WukongController_C_0'
+[2024.04.14-02.47.46:870][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.47.46:870][ 51]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.47.46:870][ 51]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.47.46:872][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.47.46:898][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-02.47.46:904][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.47.46:917][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.47.46:918][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.14-02.47.46:919][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.14-02.47.46:920][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.14-02.47.46:929][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.14-02.47.46:974][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.04.14-02.48.18:774][347]BlueprintLog: New page: Compile BP_Main_Menu
+[2024.04.14-02.48.18:796][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.14-02.48.18:806][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.48.18:853][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Main_Menu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset" SILENT=true
+[2024.04.14-02.48.18:856][347]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Main_Menu
+[2024.04.14-02.48.18:856][347]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Main_Menu40C8581540EBB0BDEFD1E8BB31C7540F.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset'
+[2024.04.14-02.48.18:860][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.07 sec)
+[2024.04.14-02.48.18:862][347]AssetCheck: New page: Asset Save: BP_Main_Menu
+[2024.04.14-02.48.18:862][347]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Main_Menu.BP_Main_Menu
+[2024.04.14-02.48.20:865][580]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-02.48.20:872][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-02.48.20:872][580]PIE: New page: PIE session: MainMenu (Apr. 13, 2024, 12:48:20 p.m.)
+[2024.04.14-02.48.20:872][580]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.48.20:893][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021138s)
+[2024.04.14-02.48.20:893][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/MainMenu.MainMenu to /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu (0.021166s)
+[2024.04.14-02.48.20:907][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.14-02.48.20:910][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-02.48.20:910][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-02.48.20:910][580]LogAIModule: Creating AISystem for world MainMenu
+[2024.04.14-02.48.20:910][580]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2024.04.14-02.48.20:910][580]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-02.48.20:911][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-02.48.20:911][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-02.48.20:911][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-02.48.20:911][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-02.48.20:911][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-02.48.20:913][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-02.48.20:929][580]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-02.48.20:929][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-02.48.20:929][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-02.48.20:929][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-02.48.20:930][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.14-02.48.20:930][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.14-02.48.20:931][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.14-02.48.20:931][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.14-02.48.20:931][580]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.14-02.48.20:931][580]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2024.04.14-02.48.20:931][580]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.14-02.48.20:978][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.48.20:978][580]LogLoad: Game class is 'BP_Main_Menu_C'
+[2024.04.14-02.48.20:991][580]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-02.48.20:991][580]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-02.48.20:993][580]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.04.13-19.48.20
+[2024.04.14-02.48.20:993][580]LogWorld: Bringing up level for play took: 0.015273
+[2024.04.14-02.48.20:995][580]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.04.14-02.48.20:995][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.14-02.48.20:996][580]LogLevelSequence: Starting new camera cut: 'CameraActor_2'
+[2024.04.14-02.48.20:998][580]PIE: Server logged in
+[2024.04.14-02.48.20:998][580]PIE: Play in editor total start time 0.126 seconds.
+[2024.04.14-02.48.21:010][580]LogViewport: Scene viewport resized to 3831x2220, mode Windowed.
+[2024.04.14-02.48.23:228][657]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-02.48.26:200][762]LogLevelSequence: Starting new camera cut: 'WukongController_C_0'
+[2024.04.14-02.48.35:680][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.48.35:680][215]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.48.35:680][215]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.14-02.48.35:683][215]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.48.35:685][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.48.35:687][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-02.48.35:695][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.48.35:709][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.14-02.48.35:709][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.14-02.48.35:711][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.14-02.48.35:721][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.14-02.48.35:755][216]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.04.14-02.48.44:083][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.48.44:136][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Main_Menu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset" SILENT=true
+[2024.04.14-02.48.44:139][192]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Main_Menu
+[2024.04.14-02.48.44:139][192]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Main_Menu789887114D3A14F535E40DAADFF71876.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset'
+[2024.04.14-02.48.44:143][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.13 sec)
+[2024.04.14-02.48.44:144][192]AssetCheck: New page: Asset Save: BP_Main_Menu
+[2024.04.14-02.48.44:144][192]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Main_Menu.BP_Main_Menu
+[2024.04.14-02.50.22:224][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.50.22:309][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.14-02.50.22:405][479]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/MainMenu
+[2024.04.14-02.50.22:405][479]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/MainMenu791AB70141246BA5FC7608B892646738.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Levels/MainMenu.umap'
+[2024.04.14-02.50.22:411][479]LogFileHelpers: Saving map 'MainMenu' took 0.137
+[2024.04.14-02.50.22:416][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 1.32 sec)
+[2024.04.14-02.50.22:418][479]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.14-02.50.22:418][479]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-02.50.29:179][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-02.50.29:186][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-02.50.29:186][100]PIE: New page: PIE session: MainMenu (Apr. 13, 2024, 12:50:29 p.m.)
+[2024.04.14-02.50.29:186][100]LogPlayLevel: Creating play world package: /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.50.29:208][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021908s)
+[2024.04.14-02.50.29:208][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Levels/MainMenu.MainMenu to /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu (0.021935s)
+[2024.04.14-02.50.29:222][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.14-02.50.29:223][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-02.50.29:223][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-02.50.29:224][100]LogAIModule: Creating AISystem for world MainMenu
+[2024.04.14-02.50.29:224][100]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2024.04.14-02.50.29:224][100]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-02.50.29:224][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-02.50.29:224][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-02.50.29:225][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-02.50.29:225][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-02.50.29:225][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-02.50.29:226][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-02.50.29:243][100]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-02.50.29:243][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-02.50.29:243][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-02.50.29:243][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-02.50.29:243][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.14-02.50.29:243][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.14-02.50.29:245][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.14-02.50.29:245][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.14-02.50.29:245][100]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.14-02.50.29:245][100]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2024.04.14-02.50.29:245][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.14-02.50.29:296][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.50.29:296][100]LogLoad: Game class is 'BP_Main_Menu_C'
+[2024.04.14-02.50.29:309][100]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-02.50.29:309][100]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-02.50.29:311][100]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.04.13-19.50.29
+[2024.04.14-02.50.29:312][100]LogWorld: Bringing up level for play took: 0.015208
+[2024.04.14-02.50.29:314][100]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.14-02.50.29:314][100]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.14-02.50.29:315][100]LogLevelSequence: Starting new camera cut: 'CameraActor_2'
+[2024.04.14-02.50.29:316][100]PIE: Server logged in
+[2024.04.14-02.50.29:317][100]PIE: Play in editor total start time 0.132 seconds.
+[2024.04.14-02.50.29:331][100]LogViewport: Scene viewport resized to 3831x2240, mode Windowed.
+[2024.04.14-02.50.31:526][169]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-02.50.34:521][275]LogLevelSequence: Starting new camera cut: 'WukongController_C_0'
+[2024.04.14-02.50.36:430][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-02.50.36:430][368]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.14-02.50.36:430][368]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.14-02.50.36:433][368]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-02.50.36:435][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.50.36:438][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-02.50.36:444][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-02.50.36:458][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.14-02.50.36:459][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.14-02.50.36:459][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.14-02.50.36:461][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.14-02.50.36:473][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.14-02.50.36:507][369]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.14-02.51.21:705][550]BlueprintLog: New page: Compile BP_Main_Menu
+[2024.04.14-02.51.21:727][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.14-02.51.21:736][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.51.21:776][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Main_Menu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset" SILENT=true
+[2024.04.14-02.51.21:779][550]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Main_Menu
+[2024.04.14-02.51.21:779][550]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Main_MenuFC90CAFE47BE969EBF9C9EA7F07B6D6A.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Main_Menu.uasset'
+[2024.04.14-02.51.21:783][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.37 sec)
+[2024.04.14-02.51.21:785][550]AssetCheck: New page: Asset Save: BP_Main_Menu
+[2024.04.14-02.51.21:785][550]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Main_Menu.BP_Main_Menu
+[2024.04.14-02.51.57:272][759]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-02.51.57:291][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.14-02.51.57:409][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.51.57:445][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.51.57:447][759]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.51.57:448][759]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu9D10702F4950FB98D35DC6B64DC57159.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.51.57:452][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.41 sec)
+[2024.04.14-02.51.57:460][759]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.51.57:460][759]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.53.07:211][ 70]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-02.53.07:233][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.14-02.53.07:319][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.53.07:365][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.53.07:368][ 70]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.53.07:368][ 70]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu2BD2426D4014B92F08155292F7F422B0.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.53.07:372][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 1.46 sec)
+[2024.04.14-02.53.07:377][ 70]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.53.07:378][ 70]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.53.08:896][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.53.08:929][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.53.08:932][243]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.53.08:932][243]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu48871CBB45990D893FCD2B98D41C4AC3.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.53.08:936][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.50 sec)
+[2024.04.14-02.53.08:937][243]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.53.08:937][243]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.54.05:488][  2]LogSlate: Took 0.007505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.14-02.54.36:530][528]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-02.54.36:554][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.14-02.54.36:664][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.54.36:719][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.54.36:724][528]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.54.36:724][528]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu19A4C92048B71D40F957A1B0094ADCC8.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.54.36:729][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.57 sec)
+[2024.04.14-02.54.36:735][528]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.54.36:735][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.55.10:377][483]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.55.28:088][575]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.55.35:652][456]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.56.15:878][177]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.58.02:480][344]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.58.14:143][657]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.58.18:448][150]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.59.16:148][983]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-02.59.16:170][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.14-02.59.16:315][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.59.16:362][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.59.16:366][983]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.59.16:367][983]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu67C92C7640DB9B7FA1CE36BD77891CBA.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.59.16:372][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.62 sec)
+[2024.04.14-02.59.16:381][983]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.59.16:381][983]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.59.29:708][520]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.59.36:902][348]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.59.44:052][178]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-02.59.50:650][954]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-02.59.50:673][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.14-02.59.50:821][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.59.50:879][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.59.50:883][954]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.59.50:883][954]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu9F44A8EA4ED1EE1102252D8DB91D109D.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.59.50:888][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.69 sec)
+[2024.04.14-02.59.50:897][954]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.59.50:898][954]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-02.59.51:808][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.59.51:860][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-02.59.51:865][ 46]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-02.59.51:865][ 46]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenuE82913B24EFC8E6E8B12BCB6479A8292.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-02.59.51:870][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.75 sec)
+[2024.04.14-02.59.51:870][ 46]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-02.59.51:870][ 46]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.00.09:421][103]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.00.12:642][466]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.00.18:006][ 69]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.00.26:437][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.00.35:421][ 65]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.00.41:603][758]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.00.47:565][425]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.01.17:863][ 27]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.01.57:316][651]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.02.02:154][226]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-03.02.02:177][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.14-03.02.02:289][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.02.02:335][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.02.02:340][226]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.02.02:340][226]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenuB00AC33E4822AE92BDE1E3A0F85145C4.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.02.02:344][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.81 sec)
+[2024.04.14-03.02.02:351][226]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.02.02:351][226]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.02.03:697][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.02.03:748][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.02.03:753][370]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.02.03:753][370]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenuC53793C04EB93D1B866BFC9CD2C9E69F.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.02.03:757][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.87 sec)
+[2024.04.14-03.02.03:758][370]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.02.03:758][370]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.02.25:166][867]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.02.33:656][857]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.02.37:447][300]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-03.02.37:471][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.14-03.02.37:581][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.02.37:635][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.02.37:640][300]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.02.37:640][300]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenuD4103D664760B03404EAD5950E8A9864.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.02.37:644][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.94 sec)
+[2024.04.14-03.02.37:652][300]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.02.37:652][300]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.02.38:498][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.02.38:534][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.02.38:539][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.02.38:539][384]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu31B54AD449E66B871363008E6641A0B8.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.02.38:542][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.98 sec)
+[2024.04.14-03.02.38:545][384]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.02.38:545][384]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.02.52:749][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.03.05:174][475]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.03.14:998][649]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-03.03.15:021][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.14-03.03.15:133][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.03.15:171][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.03.15:176][649]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.03.15:177][649]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu95721B6B4743BFFB3081D1A6F849F5BD.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.03.15:181][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.03 sec)
+[2024.04.14-03.03.15:188][649]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.03.15:188][649]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.03.15:967][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.03.16:019][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.03.16:024][726]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.03.16:025][726]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenuC136514040B349A1F0D38890EDFB3568.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.03.16:028][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.09 sec)
+[2024.04.14-03.03.16:030][726]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.03.16:031][726]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.03.34:276][878]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.03.49:684][664]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.14-03.03.53:099][ 71]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-03.03.53:122][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.14-03.03.53:232][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.03.53:272][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.03.53:277][ 71]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.03.53:277][ 71]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu06861C1B43DB6F991D47069E2EAF20B3.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.03.53:282][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.14 sec)
+[2024.04.14-03.03.53:289][ 71]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.03.53:289][ 71]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.03.54:984][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.03.55:035][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.03.55:041][257]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.03.55:041][257]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu63F9AC04498C23B706E52C97DF984A44.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.03.55:044][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.20 sec)
+[2024.04.14-03.03.55:048][257]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.03.55:048][257]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.05.30:746][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-03.05.42:920][850]LogContentBrowser: Attempting asset rename: ThirdPersonMap -> ThirdPersonMap
+[2024.04.14-03.05.50:994][807]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-03.05.51:020][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.14-03.05.51:035][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.05.51:093][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.05.51:099][807]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.05.51:100][807]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu4488A0BE4D7E01A1F496F6971D86D929.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.05.51:104][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.27 sec)
+[2024.04.14-03.05.51:105][807]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.05.51:105][807]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.06.01:795][ 28]BlueprintLog: New page: Compile WB_MainMenu
+[2024.04.14-03.06.01:820][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.14-03.06.01:833][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.06.01:876][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.06.01:882][ 28]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.06.01:883][ 28]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu1587D45C471592CD1ECDDA854F6080FA.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.06.01:886][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.32 sec)
+[2024.04.14-03.06.01:889][ 28]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.06.01:889][ 28]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
+[2024.04.14-03.06.09:404][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.06.09:442][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_MainMenu" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset" SILENT=true
+[2024.04.14-03.06.09:448][911]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_MainMenu
+[2024.04.14-03.06.09:448][911]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_MainMenu8ADF2D334B97E8897CB9ADAF5CC3A777.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_MainMenu.uasset'
+[2024.04.14-03.06.09:451][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 2.37 sec)
+[2024.04.14-03.06.09:454][911]AssetCheck: New page: Asset Save: WB_MainMenu
+[2024.04.14-03.06.09:454][911]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_MainMenu.WB_MainMenu
