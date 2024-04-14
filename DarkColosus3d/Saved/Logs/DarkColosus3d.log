@@ -1278,3 +1278,55 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-00.48.14:095][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms
 [2024.04.14-00.48.14:096][658]AssetCheck: New page: Asset Save: MainMenu
 [2024.04.14-00.48.14:096][658]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-00.49.48:524][794]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.14-00.49.56:087][474]Cmd: DUPLICATE
+[2024.04.14-00.49.56:087][474]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.50.27:886][982]Cmd: TRANSACTION UNDO
+[2024.04.14-00.50.27:886][982]LogEditorTransaction: Undo Move Elements
+[2024.04.14-00.50.28:324][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-00.50.28:329][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-00.50.28:330][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-00.50.28:331][982]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'tail_03' 
+[2024.04.14-00.50.30:252][ 66]Cmd: DUPLICATE
+[2024.04.14-00.50.30:252][ 66]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.50.42:410][627]Cmd: DUPLICATE
+[2024.04.14-00.50.42:410][627]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.51.03:173][557]Cmd: DUPLICATE
+[2024.04.14-00.51.03:173][557]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.51.59:946][115]Cmd: DUPLICATE
+[2024.04.14-00.51.59:946][115]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.52.24:035][214]Cmd: DUPLICATE
+[2024.04.14-00.52.24:035][214]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.52.57:747][762]Cmd: DUPLICATE
+[2024.04.14-00.52.57:747][762]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.53.22:778][899]Cmd: DUPLICATE
+[2024.04.14-00.53.22:778][899]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.54.11:612][ 64]Cmd: DUPLICATE
+[2024.04.14-00.54.11:612][ 64]Cmd: ACTOR DUPLICATE
+[2024.04.14-00.54.30:762][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-00.54.30:859][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.14-00.54.30:923][926]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/MainMenu
+[2024.04.14-00.54.30:923][926]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/MainMenu69860A734CE4D115ABB170A54E512A5A.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Levels/MainMenu.umap'
+[2024.04.14-00.54.30:929][926]LogFileHelpers: Saving map 'MainMenu' took 0.112
+[2024.04.14-00.54.30:960][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 363 ms)
+[2024.04.14-00.54.30:962][926]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.14-00.54.30:962][926]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-00.55.53:626][748]Cmd: DELETE
+[2024.04.14-00.55.53:626][748]Cmd: ACTOR DELETE
+[2024.04.14-00.55.53:630][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.14-00.55.53:644][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.14-00.55.53:650][748]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.14-00.55.55:332][819]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2024.04.14-00.56.03:075][ 64]Cmd: DELETE
+[2024.04.14-00.56.03:075][ 64]Cmd: ACTOR DELETE
+[2024.04.14-00.56.03:079][ 64]LogEditorActor: Deleted Actor: CameraActor
+[2024.04.14-00.56.03:124][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.14-00.56.03:128][ 64]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2024.04.14-00.56.05:909][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-00.56.05:971][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.14-00.56.06:032][201]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/MainMenu
+[2024.04.14-00.56.06:032][201]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/MainMenu8C1E8F074270F8928686429EE838CD1F.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Levels/MainMenu.umap'
+[2024.04.14-00.56.06:039][201]LogFileHelpers: Saving map 'MainMenu' took 0.102
+[2024.04.14-00.56.06:044][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 497 ms)
+[2024.04.14-00.56.06:045][201]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.14-00.56.06:045][201]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
