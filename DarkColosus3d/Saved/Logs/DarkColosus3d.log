@@ -1330,3 +1330,102 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-00.56.06:044][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 497 ms)
 [2024.04.14-00.56.06:045][201]AssetCheck: New page: Asset Save: MainMenu
 [2024.04.14-00.56.06:045][201]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-00.56.24:600][659]LogViewport: Scene viewport resized to 2345x1890, mode Windowed.
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: ================================================
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: Total job queries 190, among them cache hits 33 (17.37%)
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 123 distinct outputs (78.85%)
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: RAM used: 3.63 MiB of 6.40 GiB budget. Usage: 0.06%
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.14-00.56.45:587][870]LogShaderCompilers: Display: Jobs assigned 1, completed 0 (0.00%)
+[2024.04.14-00.56.45:588][870]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.04.14-00.56.45:588][870]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.14-00.56.45:588][870]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-00.56.45:588][870]LogShaderCompilers: Display: ================================================
+[2024.04.14-00.57.12:117][488]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.04.14-00.57.12:137][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:139][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:141][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:143][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:145][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:147][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:148][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:150][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:152][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:154][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:156][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:158][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_11 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:159][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:161][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_13 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:163][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_14 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.12:165][488]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_15 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.57.21:175][ 11]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.04.14-00.57.29:639][242]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.04.14-00.57.36:218][615]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.04.14-00.58.16:203][661]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_32 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.58.27:125][209]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.11:863][339]Cmd: TRANSACTION UNDO
+[2024.04.14-00.59.11:863][339]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.04.14-00.59.11:865][339]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_32 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.11:865][339]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.12:329][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-00.59.12:334][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-00.59.12:335][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-00.59.12:335][339]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'tail_03' 
+[2024.04.14-00.59.33:208][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-00.59.33:298][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.14-00.59.33:307][435]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.33:308][435]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.33:315][435]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_32 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.33:316][435]LogTexture: Display: Building textures: /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.Landscape_0.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.04.14-00.59.33:396][435]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/MainMenu
+[2024.04.14-00.59.33:396][435]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/MainMenu450BB7494627E4421ED2718B60145814.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Levels/MainMenu.umap'
+[2024.04.14-00.59.33:402][435]LogFileHelpers: Saving map 'MainMenu' took 0.141
+[2024.04.14-00.59.33:406][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 696 ms)
+[2024.04.14-00.59.33:407][435]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.14-00.59.33:408][435]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
+[2024.04.14-00.59.34:604][546]LogViewport: Scene viewport resized to 3056x1890, mode Windowed.
+[2024.04.14-00.59.57:121][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmjecjd/S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1.S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1
+[2024.04.14-00.59.57:121][585]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmjecjd/S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1.S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1
+[2024.04.14-00.59.57:121][585]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmjecjd/S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1.S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_190
+[2024.04.14-00.59.58:460][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmjecjd/S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1.S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1
+[2024.04.14-00.59.58:460][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmjecjd/S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1.S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1
+[2024.04.14-00.59.58:461][717]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmjecjd/S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1.S_Huge_Sandstone_Cliff_vmjecjd_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_191
+[2024.04.14-01.00.09:550][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmkcffi/S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1.S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1
+[2024.04.14-01.00.09:550][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmkcffi/S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1.S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1
+[2024.04.14-01.00.09:551][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmkcffi/S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1.S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_192
+[2024.04.14-01.00.14:646][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmkcffi/S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1.S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1
+[2024.04.14-01.00.14:646][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmkcffi/S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1.S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1
+[2024.04.14-01.00.14:647][647]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Huge_Sandstone_Cliff_vmkcffi/S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1.S_Huge_Sandstone_Cliff_vmkcffi_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_193
+[2024.04.14-01.00.20:594][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmilfhj/S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1.S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1
+[2024.04.14-01.00.20:594][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmilfhj/S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1.S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1
+[2024.04.14-01.00.20:594][932]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmilfhj/S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1.S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_194
+[2024.04.14-01.00.22:449][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmilfhj/S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1.S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1
+[2024.04.14-01.00.22:449][ 71]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmilfhj/S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1.S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1
+[2024.04.14-01.00.22:450][ 71]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmilfhj/S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1.S_Massive_Sandstone_Cliff_vmilfhj_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_195
+[2024.04.14-01.00.26:968][284]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmkbfgx/S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1.S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1
+[2024.04.14-01.00.26:968][284]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmkbfgx/S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1.S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1
+[2024.04.14-01.00.26:968][284]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmkbfgx/S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1.S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_196
+[2024.04.14-01.00.27:946][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmkbfgx/S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1.S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1
+[2024.04.14-01.00.27:946][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmkbfgx/S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1.S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1
+[2024.04.14-01.00.27:947][378]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmkbfgx/S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1.S_Massive_Sandstone_Cliff_vmkbfgx_lod3_Var1 as actor: StaticMeshActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.StaticMeshActor_197
+[2024.04.14-01.01.23:481][582]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2024.04.14-01.01.23:481][582]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2024.04.14-01.01.23:482][582]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.CameraActor_0
+[2024.04.14-01.01.23:482][582]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.CameraActor_0
+[2024.04.14-01.01.24:306][639]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2024.04.14-01.01.24:306][639]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2024.04.14-01.01.24:308][639]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.CameraActor_2
+[2024.04.14-01.01.24:308][639]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Blueprints/Levels/MainMenu.MainMenu:PersistentLevel.CameraActor_2
+[2024.04.14-01.01.24:539][640]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2024.04.14-01.02.06:107][971]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2024.04.14-01.04.42:202][131]LogEditorViewport: Clicking Background
+[2024.04.14-01.05.06:159][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-01.05.06:246][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.14-01.05.06:328][841]LogSavePackage: Moving output files for package: /Game/Blueprints/Levels/MainMenu
+[2024.04.14-01.05.06:329][841]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/MainMenuC2F538594B220130B92D96957EE982BF.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Levels/MainMenu.umap'
+[2024.04.14-01.05.06:335][841]LogFileHelpers: Saving map 'MainMenu' took 0.130
+[2024.04.14-01.05.06:340][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 877 ms)
+[2024.04.14-01.05.06:342][841]AssetCheck: New page: Asset Save: MainMenu
+[2024.04.14-01.05.06:342][841]LogContentValidation: Display: Validating /Script/Engine.World /Game/Blueprints/Levels/MainMenu.MainMenu
