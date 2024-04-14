@@ -4562,3 +4562,60 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-17.49.47:851][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 7.83 sec)
 [2024.04.14-17.49.47:852][860]AssetCheck: New page: Asset Save: WB_Video
 [2024.04.14-17.49.47:852][860]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.51.33:621][271]BlueprintLog: New page: Compile WB_Video
+[2024.04.14-17.51.33:650][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.04.14-17.51.33:676][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.51.33:730][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.51.33:738][271]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.51.33:738][271]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Video95C71FB248F679BF48833A94450EFD9B.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.51.33:742][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 7.89 sec)
+[2024.04.14-17.51.33:744][271]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.51.33:744][271]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.54.04:593][715]BlueprintLog: New page: Compile WB_Video
+[2024.04.14-17.54.04:622][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.14-17.54.04:648][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.54.04:685][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.54.04:695][715]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.54.04:696][715]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Video6F49F6EE4F3E8AA67F2090838558A1CE.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.54.04:700][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 7.94 sec)
+[2024.04.14-17.54.04:702][715]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.54.04:703][715]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.54.05:862][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.54.05:900][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.54.05:909][838]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.54.05:909][838]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_VideoCE0341F54597A445173BF3AD84E0B741.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.54.05:914][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 8.00 sec)
+[2024.04.14-17.54.05:915][838]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.54.05:915][838]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.54.30:428][697]BlueprintLog: New page: Compile WB_Video
+[2024.04.14-17.54.30:456][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.14-17.54.30:483][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.54.30:519][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.54.30:528][697]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.54.30:529][697]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_VideoE7653E7F4265D86E7E52F4A5735C4CDC.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.54.30:533][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 8.05 sec)
+[2024.04.14-17.54.30:534][697]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.54.30:534][697]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.55.28:649][862]BlueprintLog: New page: Compile WB_Video
+[2024.04.14-17.55.28:680][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.14-17.55.28:707][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.55.28:756][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.55.28:767][862]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.55.28:767][862]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_VideoF249AB8A4D62DA810484E8AA238B1041.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.55.28:771][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 8.11 sec)
+[2024.04.14-17.55.28:773][862]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.55.28:773][862]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.55.32:659][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.55.32:686][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.55.32:697][304]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.55.32:697][304]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_VideoD278AD4044FC3938F4FB01BC4F2E9DCB.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.55.32:701][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 8.15 sec)
+[2024.04.14-17.55.32:703][304]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.55.32:703][304]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
+[2024.04.14-17.55.37:999][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-17.55.38:037][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Video" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset" SILENT=true
+[2024.04.14-17.55.38:047][898]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Video
+[2024.04.14-17.55.38:047][898]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Video61EC324B49024FFD0AF347874658E939.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Video.uasset'
+[2024.04.14-17.55.38:051][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 8.20 sec)
+[2024.04.14-17.55.38:053][898]AssetCheck: New page: Asset Save: WB_Video
+[2024.04.14-17.55.38:053][898]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Video.WB_Video
