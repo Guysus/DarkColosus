@@ -1848,3 +1848,1098 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.14-23.21.04:735][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.25 sec)
 [2024.04.14-23.21.04:737][545]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
 [2024.04.14-23.21.04:737][545]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.14-23.26.00:110][182]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.14-23.26.00:110][182]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.14-23.26.35:610][428]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.14-23.27.45:635][315]BlueprintLog: New page: Compile BP_Initiate_Sequence
+[2024.04.14-23.27.45:669][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.14-23.27.45:685][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.27.45:739][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Initiate_Sequence" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset" SILENT=true
+[2024.04.14-23.27.45:744][315]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Initiate_Sequence
+[2024.04.14-23.27.45:744][315]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Initiate_SequenceA4F2023E4430F96396046EA4A8BB4625.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset'
+[2024.04.14-23.27.45:748][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.32 sec)
+[2024.04.14-23.27.45:759][315]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
+[2024.04.14-23.27.45:759][315]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.14-23.27.51:403][947]BlueprintLog: New page: Compile BP_Initiate_Sequence
+[2024.04.14-23.27.51:435][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.14-23.27.51:454][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.27.51:489][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Initiate_Sequence" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset" SILENT=true
+[2024.04.14-23.27.51:494][947]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Initiate_Sequence
+[2024.04.14-23.27.51:494][947]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Initiate_SequenceD5FC448B4D8AF224BB06B59D253896C0.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset'
+[2024.04.14-23.27.51:497][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.36 sec)
+[2024.04.14-23.27.51:508][947]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
+[2024.04.14-23.27.51:508][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.14-23.27.54:218][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.27.54:272][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Initiate_Sequence" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset" SILENT=true
+[2024.04.14-23.27.54:277][232]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Initiate_Sequence
+[2024.04.14-23.27.54:277][232]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Initiate_SequenceCAEBC05C4C6ABC4FAC3B0D8564962FBE.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset'
+[2024.04.14-23.27.54:281][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.42 sec)
+[2024.04.14-23.27.54:283][232]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
+[2024.04.14-23.27.54:283][232]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.14-23.27.55:327][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-23.27.55:333][356]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.14-23.27.55:333][356]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.14-23.27.55:335][356]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 747 ms)
+[2024.04.14-23.27.55:335][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-23.27.55:335][356]PIE: New page: PIE session: ThirdPersonMap (Apr. 14, 2024, 9:27:55 a.m.)
+[2024.04.14-23.27.55:335][356]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.27.56:067][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.731550s)
+[2024.04.14-23.27.56:067][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.731585s)
+[2024.04.14-23.27.56:083][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.14-23.27.56:088][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.27.56:088][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.27.56:088][356]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.14-23.27.56:089][356]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.14-23.27.56:089][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.14-23.27.56:089][356]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.14-23.27.56:089][356]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.14-23.27.56:357][356]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.14-23.27.56:357][356]LogWorldPartition: Display: WorldPartition initialize took 268 ms (total: 3.71 sec)
+[2024.04.14-23.27.56:357][356]LogPlayLevel: PIE: World Init took: (0.269988s)
+[2024.04.14-23.27.56:358][356]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-23.27.56:358][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-23.27.56:358][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-23.27.56:358][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-23.27.56:358][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-23.27.56:358][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-23.27.56:360][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-23.27.56:376][356]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-23.27.56:377][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-23.27.56:377][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-23.27.56:377][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-23.27.56:377][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.14-23.27.56:377][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.14-23.27.56:379][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.14-23.27.56:379][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.14-23.27.56:379][356]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.14-23.27.56:379][356]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.04.14-23.27.56:379][356]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.14-23.27.56:427][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.27.56:428][356]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.14-23.27.56:529][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.27.56:529][356]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.27.56:529][356]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.14-16.27.56
+[2024.04.14-23.27.56:530][356]LogWorld: Bringing up level for play took: 0.102124
+[2024.04.14-23.27.56:532][356]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.14-23.27.56:533][356]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.27.56:533][356]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-23.27.56:534][356]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.14-23.27.56:534][356]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.14-23.27.56:539][356]PIE: Server logged in
+[2024.04.14-23.27.56:540][356]PIE: Play in editor total start time 1.207 seconds.
+[2024.04.14-23.27.56:551][356]LogViewport: Scene viewport resized to 3831x2160, mode Windowed.
+[2024.04.14-23.27.58:521][404]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.14-23.27.58:521][404]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-23.27.59:782][443]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.27.59:782][443]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_0.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.27.59:782][443]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.14-23.27.59:783][443]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.14-23.28.01:966][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.28.01:966][510]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_1.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.28.01:967][510]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.14-23.28.01:968][510]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.14-23.28.04:199][579]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.28.04:199][579]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_2.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.28.04:200][579]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.14-23.28.04:200][579]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.14-23.28.07:160][670]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.28.07:160][670]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_3.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.28.07:161][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.14-23.28.07:161][670]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.14-23.28.13:577][869]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.28.13:577][869]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_4.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.28.13:578][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.14-23.28.13:578][869]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.14-23.28.14:981][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.28.14:981][911]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.28.14:982][911]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.14-23.28.14:987][911]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-23.28.14:989][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.28.14:989][911]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.14-23.28.14:998][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-23.28.15:004][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.28.15:024][911]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.14-23.28.15:024][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.14-23.28.15:026][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.14-23.28.15:036][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.14-23.28.15:102][912]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.14-23.34.20:632][113]BlueprintLog: New page: Compile BP_Initiate_Sequence
+[2024.04.14-23.34.20:666][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.14-23.34.20:681][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.34.20:720][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Initiate_Sequence" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset" SILENT=true
+[2024.04.14-23.34.20:725][113]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Initiate_Sequence
+[2024.04.14-23.34.20:726][113]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Initiate_SequenceA7E09AB64B0F1DD207E84A91473E0A95.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset'
+[2024.04.14-23.34.20:729][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.47 sec)
+[2024.04.14-23.34.20:731][113]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
+[2024.04.14-23.34.20:731][113]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.14-23.34.21:723][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.34.21:769][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Initiate_Sequence" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset" SILENT=true
+[2024.04.14-23.34.21:774][212]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Initiate_Sequence
+[2024.04.14-23.34.21:774][212]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Initiate_Sequence186AB0F54A3A0F833D9DB88A41740600.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset'
+[2024.04.14-23.34.21:777][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.52 sec)
+[2024.04.14-23.34.21:780][212]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
+[2024.04.14-23.34.21:780][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.14-23.34.28:561][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.34.43:124][ 49]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2024.04.14-23.34.43:133][ 49]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2024.04.14-23.34.43:144][ 50]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2024.04.14-23.34.52:665][397]LogContentBrowser: Attempting asset rename: NewLevelSequence -> DeathSequence
+[2024.04.14-23.34.52:666][397]LogContentBrowser: End creating deferred item NewLevelSequence
+[2024.04.14-23.35.11:330][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.35.16:523][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.35.18:321][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.36.02:107][696]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Death.Death
+[2024.04.14-23.36.02:107][696]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Death.Death
+[2024.04.14-23.36.02:108][696]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.04.14-23.36.02:109][696]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.04.14-23.36.04:059][761]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Death.Death
+[2024.04.14-23.36.04:059][761]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Death.Death
+[2024.04.14-23.36.04:061][761]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D8F3BC56204021EC01_1474104184
+[2024.04.14-23.36.04:062][761]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D8F3BC56204021EC01_1474104184
+[2024.04.14-23.36.16:697][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-23.36.16:704][160]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.14-23.36.16:704][160]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.14-23.36.16:707][160]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 750 ms)
+[2024.04.14-23.36.16:707][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-23.36.16:707][160]PIE: New page: PIE session: ThirdPersonMap (Apr. 14, 2024, 9:36:16 a.m.)
+[2024.04.14-23.36.16:707][160]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.36.17:448][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.740830s)
+[2024.04.14-23.36.17:448][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.740860s)
+[2024.04.14-23.36.17:465][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.14-23.36.17:473][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.36.17:473][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.36.17:474][160]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.14-23.36.17:474][160]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.14-23.36.17:474][160]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.14-23.36.17:474][160]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.14-23.36.17:474][160]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.14-23.36.17:738][160]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.14-23.36.17:738][160]LogWorldPartition: Display: WorldPartition initialize took 264 ms (total: 3.98 sec)
+[2024.04.14-23.36.17:738][160]LogPlayLevel: PIE: World Init took: (0.265447s)
+[2024.04.14-23.36.17:738][160]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.14-23.36.17:738][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-23.36.17:738][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-23.36.17:738][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-23.36.17:739][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-23.36.17:739][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-23.36.17:739][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-23.36.17:739][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-23.36.17:739][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-23.36.17:739][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-23.36.17:739][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-23.36.17:739][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-23.36.17:741][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-23.36.17:757][160]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-23.36.17:757][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-23.36.17:757][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-23.36.17:757][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-23.36.17:758][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.14-23.36.17:758][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.14-23.36.17:759][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.14-23.36.17:759][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.14-23.36.17:759][160]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.14-23.36.17:759][160]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.04.14-23.36.17:759][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.14-23.36.17:762][160]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.14-23.36.17:862][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.36.17:862][160]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.36.17:862][160]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.14-16.36.17
+[2024.04.14-23.36.17:863][160]LogWorld: Bringing up level for play took: 0.100237
+[2024.04.14-23.36.17:865][160]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.04.14-23.36.17:866][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.36.17:866][160]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-23.36.17:866][160]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.14-23.36.17:866][160]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.14-23.36.17:869][160]PIE: Server logged in
+[2024.04.14-23.36.17:870][160]PIE: Play in editor total start time 1.166 seconds.
+[2024.04.14-23.36.19:820][216]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.14-23.36.19:820][216]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-23.36.32:561][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.36.32:561][702]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.36.32:561][702]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-23.36.32:563][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.36.32:563][702]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.14-23.36.32:586][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-23.36.32:592][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.36.32:610][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.14-23.36.32:610][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.14-23.36.32:610][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.14-23.36.32:612][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.14-23.36.32:616][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.36.32:623][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.14-23.36.32:718][703]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.04.14-23.36.41:602][  1]LogActorFactory: Actor Factory attempting to spawn AnimMontage /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Wukong_Death_Montage.Wukong_Death_Montage
+[2024.04.14-23.36.41:602][  1]LogActorFactory: Actor Factory attempting to spawn AnimMontage /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Wukong_Death_Montage.Wukong_Death_Montage
+[2024.04.14-23.36.41:602][  1]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2024.04.14-23.36.41:604][  1]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_1
+[2024.04.14-23.36.42:775][ 39]LogActorFactory: Actor Factory attempting to spawn AnimMontage /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Wukong_Death_Montage.Wukong_Death_Montage
+[2024.04.14-23.36.42:775][ 39]LogActorFactory: Actor Factory attempting to spawn AnimMontage /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Wukong_Death_Montage.Wukong_Death_Montage
+[2024.04.14-23.36.42:778][ 39]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D8F3BC56204021EC01_1512820185
+[2024.04.14-23.36.42:779][ 39]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong as actor: SkeletalMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkeletalMeshActor_UAID_D8F3BC56204021EC01_1512820185
+[2024.04.14-23.37.17:345][163]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-23.37.17:352][163]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.14-23.37.17:352][163]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.14-23.37.17:354][163]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 753 ms)
+[2024.04.14-23.37.17:354][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-23.37.17:355][163]PIE: New page: PIE session: ThirdPersonMap (Apr. 14, 2024, 9:37:17 a.m.)
+[2024.04.14-23.37.17:355][163]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.37.18:051][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.695990s)
+[2024.04.14-23.37.18:051][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.696021s)
+[2024.04.14-23.37.18:066][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.14-23.37.18:072][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.37.18:072][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.37.18:072][163]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.14-23.37.18:073][163]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.14-23.37.18:073][163]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.14-23.37.18:073][163]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.14-23.37.18:073][163]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.14-23.37.18:339][163]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.14-23.37.18:339][163]LogWorldPartition: Display: WorldPartition initialize took 266 ms (total: 4.24 sec)
+[2024.04.14-23.37.18:339][163]LogPlayLevel: PIE: World Init took: (0.267555s)
+[2024.04.14-23.37.18:339][163]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-23.37.18:339][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-23.37.18:339][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-23.37.18:339][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-23.37.18:339][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-23.37.18:339][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-23.37.18:341][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-23.37.18:369][163]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-23.37.18:369][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-23.37.18:369][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-23.37.18:369][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-23.37.18:370][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.14-23.37.18:370][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.14-23.37.18:375][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.14-23.37.18:375][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.14-23.37.18:375][163]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.14-23.37.18:375][163]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.04.14-23.37.18:375][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.14-23.37.18:380][163]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.14-23.37.18:484][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.37.18:484][163]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.37.18:485][163]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.14-16.37.18
+[2024.04.14-23.37.18:486][163]LogWorld: Bringing up level for play took: 0.105794
+[2024.04.14-23.37.18:488][163]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.04.14-23.37.18:490][163]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.37.18:490][163]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-23.37.18:490][163]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.14-23.37.18:490][163]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.14-23.37.18:493][163]PIE: Server logged in
+[2024.04.14-23.37.18:494][163]PIE: Play in editor total start time 1.142 seconds.
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: Total job queries 516, among them cache hits 107 (20.74%)
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: Tracking 409 distinct input hashes that result in 301 distinct outputs (73.59%)
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: RAM used: 10.39 MiB of 6.40 GiB budget. Usage: 0.16%
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.14-23.37.18:778][166]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.14-23.37.18:779][166]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.14-23.37.18:779][166]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.37.20:435][221]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.14-23.37.20:436][221]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.14-23.37.36:792][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.37.36:792][870]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.37.36:792][870]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-23.37.36:794][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.37.36:794][870]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.14-23.37.36:813][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-23.37.36:819][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.37.36:835][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.37.36:840][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.14-23.37.36:840][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.14-23.37.36:842][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.14-23.37.36:853][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.04.14-23.37.36:910][871]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.04.14-23.37.42:874][ 71]Cmd: DELETE
+[2024.04.14-23.37.42:876][ 71]Cmd: ACTOR DELETE
+[2024.04.14-23.37.42:991][ 71]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.04.14-23.37.43:009][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.14-23.37.43:013][ 71]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2024.04.14-23.37.58:256][564]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/Wukong_Death_Montage.Wukong_Death_Montage
+[2024.04.14-23.37.58:267][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.37.58:267][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.37.58:305][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-23.37.58:505][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.37.58:505][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.37.58:664][564]LogViewport: Scene viewport resized to 2287x1131, mode Windowed.
+[2024.04.14-23.37.58:770][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.38.04:972][981]LogViewport: Scene viewport resized to 2293x1131, mode Windowed.
+[2024.04.14-23.38.04:994][982]LogViewport: Scene viewport resized to 2320x1131, mode Windowed.
+[2024.04.14-23.38.05:019][983]LogViewport: Scene viewport resized to 2344x1131, mode Windowed.
+[2024.04.14-23.38.05:042][984]LogViewport: Scene viewport resized to 2360x1131, mode Windowed.
+[2024.04.14-23.38.05:063][985]LogViewport: Scene viewport resized to 2364x1131, mode Windowed.
+[2024.04.14-23.38.05:086][986]LogViewport: Scene viewport resized to 2370x1131, mode Windowed.
+[2024.04.14-23.38.05:107][987]LogViewport: Scene viewport resized to 2379x1131, mode Windowed.
+[2024.04.14-23.38.05:129][988]LogViewport: Scene viewport resized to 2391x1131, mode Windowed.
+[2024.04.14-23.38.05:151][989]LogViewport: Scene viewport resized to 2409x1131, mode Windowed.
+[2024.04.14-23.38.05:173][990]LogViewport: Scene viewport resized to 2422x1131, mode Windowed.
+[2024.04.14-23.38.05:194][991]LogViewport: Scene viewport resized to 2442x1131, mode Windowed.
+[2024.04.14-23.38.05:217][992]LogViewport: Scene viewport resized to 2459x1131, mode Windowed.
+[2024.04.14-23.38.05:239][993]LogViewport: Scene viewport resized to 2470x1131, mode Windowed.
+[2024.04.14-23.38.05:262][994]LogViewport: Scene viewport resized to 2478x1131, mode Windowed.
+[2024.04.14-23.38.05:285][995]LogViewport: Scene viewport resized to 2495x1131, mode Windowed.
+[2024.04.14-23.38.05:307][996]LogViewport: Scene viewport resized to 2521x1131, mode Windowed.
+[2024.04.14-23.38.05:330][997]LogViewport: Scene viewport resized to 2557x1131, mode Windowed.
+[2024.04.14-23.38.05:352][998]LogViewport: Scene viewport resized to 2597x1131, mode Windowed.
+[2024.04.14-23.38.05:375][999]LogViewport: Scene viewport resized to 2629x1131, mode Windowed.
+[2024.04.14-23.38.05:399][  0]LogViewport: Scene viewport resized to 2648x1131, mode Windowed.
+[2024.04.14-23.38.05:420][  1]LogViewport: Scene viewport resized to 2655x1131, mode Windowed.
+[2024.04.14-23.38.05:442][  2]LogViewport: Scene viewport resized to 2660x1131, mode Windowed.
+[2024.04.14-23.38.05:465][  3]LogViewport: Scene viewport resized to 2663x1131, mode Windowed.
+[2024.04.14-23.38.05:487][  4]LogViewport: Scene viewport resized to 2665x1131, mode Windowed.
+[2024.04.14-23.38.05:508][  5]LogViewport: Scene viewport resized to 2666x1131, mode Windowed.
+[2024.04.14-23.38.05:772][ 35]LogViewport: Scene viewport resized to 2667x1131, mode Windowed.
+[2024.04.14-23.38.05:795][ 36]LogViewport: Scene viewport resized to 2679x1131, mode Windowed.
+[2024.04.14-23.38.05:818][ 37]LogViewport: Scene viewport resized to 2699x1131, mode Windowed.
+[2024.04.14-23.38.05:839][ 38]LogViewport: Scene viewport resized to 2719x1131, mode Windowed.
+[2024.04.14-23.38.05:861][ 39]LogViewport: Scene viewport resized to 2733x1131, mode Windowed.
+[2024.04.14-23.38.05:882][ 40]LogViewport: Scene viewport resized to 2737x1131, mode Windowed.
+[2024.04.14-23.38.05:931][ 44]LogViewport: Scene viewport resized to 2738x1131, mode Windowed.
+[2024.04.14-23.38.05:954][ 45]LogViewport: Scene viewport resized to 2746x1131, mode Windowed.
+[2024.04.14-23.38.05:975][ 46]LogViewport: Scene viewport resized to 2752x1131, mode Windowed.
+[2024.04.14-23.38.05:996][ 47]LogViewport: Scene viewport resized to 2777x1131, mode Windowed.
+[2024.04.14-23.38.06:018][ 48]LogViewport: Scene viewport resized to 2800x1131, mode Windowed.
+[2024.04.14-23.38.06:042][ 49]LogViewport: Scene viewport resized to 2817x1131, mode Windowed.
+[2024.04.14-23.38.06:064][ 50]LogViewport: Scene viewport resized to 2835x1131, mode Windowed.
+[2024.04.14-23.38.06:086][ 51]LogViewport: Scene viewport resized to 2857x1131, mode Windowed.
+[2024.04.14-23.38.06:108][ 52]LogViewport: Scene viewport resized to 2871x1131, mode Windowed.
+[2024.04.14-23.38.06:130][ 53]LogViewport: Scene viewport resized to 2885x1131, mode Windowed.
+[2024.04.14-23.38.06:153][ 54]LogViewport: Scene viewport resized to 2897x1131, mode Windowed.
+[2024.04.14-23.38.06:174][ 55]LogViewport: Scene viewport resized to 2915x1131, mode Windowed.
+[2024.04.14-23.38.06:196][ 56]LogViewport: Scene viewport resized to 2936x1131, mode Windowed.
+[2024.04.14-23.38.06:217][ 57]LogViewport: Scene viewport resized to 2956x1131, mode Windowed.
+[2024.04.14-23.38.06:239][ 58]LogViewport: Scene viewport resized to 2966x1131, mode Windowed.
+[2024.04.14-23.38.06:262][ 59]LogViewport: Scene viewport resized to 2972x1131, mode Windowed.
+[2024.04.14-23.38.06:283][ 60]LogViewport: Scene viewport resized to 2974x1131, mode Windowed.
+[2024.04.14-23.38.06:609][ 97]LogViewport: Scene viewport resized to 2973x1131, mode Windowed.
+[2024.04.14-23.38.06:633][ 98]LogViewport: Scene viewport resized to 2951x1131, mode Windowed.
+[2024.04.14-23.38.06:657][ 99]LogViewport: Scene viewport resized to 2896x1131, mode Windowed.
+[2024.04.14-23.38.06:678][100]LogViewport: Scene viewport resized to 2831x1131, mode Windowed.
+[2024.04.14-23.38.06:699][101]LogViewport: Scene viewport resized to 2785x1131, mode Windowed.
+[2024.04.14-23.38.06:721][102]LogViewport: Scene viewport resized to 2769x1131, mode Windowed.
+[2024.04.14-23.38.06:742][103]LogViewport: Scene viewport resized to 2748x1131, mode Windowed.
+[2024.04.14-23.38.06:764][104]LogViewport: Scene viewport resized to 2732x1131, mode Windowed.
+[2024.04.14-23.38.06:787][105]LogViewport: Scene viewport resized to 2690x1131, mode Windowed.
+[2024.04.14-23.38.06:809][106]LogViewport: Scene viewport resized to 2596x1131, mode Windowed.
+[2024.04.14-23.38.06:830][107]LogViewport: Scene viewport resized to 2534x1131, mode Windowed.
+[2024.04.14-23.38.06:855][108]LogViewport: Scene viewport resized to 2508x1131, mode Windowed.
+[2024.04.14-23.38.06:877][109]LogViewport: Scene viewport resized to 2491x1131, mode Windowed.
+[2024.04.14-23.38.06:899][110]LogViewport: Scene viewport resized to 2488x1131, mode Windowed.
+[2024.04.14-23.38.06:920][111]LogViewport: Scene viewport resized to 2487x1131, mode Windowed.
+[2024.04.14-23.38.06:942][112]LogViewport: Scene viewport resized to 2481x1131, mode Windowed.
+[2024.04.14-23.38.06:964][113]LogViewport: Scene viewport resized to 2469x1131, mode Windowed.
+[2024.04.14-23.38.06:986][114]LogViewport: Scene viewport resized to 2437x1131, mode Windowed.
+[2024.04.14-23.38.07:008][115]LogViewport: Scene viewport resized to 2398x1131, mode Windowed.
+[2024.04.14-23.38.07:029][116]LogViewport: Scene viewport resized to 2367x1131, mode Windowed.
+[2024.04.14-23.38.07:051][117]LogViewport: Scene viewport resized to 2330x1131, mode Windowed.
+[2024.04.14-23.38.07:075][118]LogViewport: Scene viewport resized to 2302x1131, mode Windowed.
+[2024.04.14-23.38.07:096][119]LogViewport: Scene viewport resized to 2289x1131, mode Windowed.
+[2024.04.14-23.38.07:117][120]LogViewport: Scene viewport resized to 2287x1131, mode Windowed.
+[2024.04.14-23.38.07:285][138]LogViewport: Scene viewport resized to 2288x1131, mode Windowed.
+[2024.04.14-23.38.07:308][139]LogViewport: Scene viewport resized to 2297x1131, mode Windowed.
+[2024.04.14-23.38.07:330][140]LogViewport: Scene viewport resized to 2337x1131, mode Windowed.
+[2024.04.14-23.38.07:353][141]LogViewport: Scene viewport resized to 2388x1131, mode Windowed.
+[2024.04.14-23.38.07:374][142]LogViewport: Scene viewport resized to 2441x1131, mode Windowed.
+[2024.04.14-23.38.07:395][143]LogViewport: Scene viewport resized to 2471x1131, mode Windowed.
+[2024.04.14-23.38.07:417][144]LogViewport: Scene viewport resized to 2510x1131, mode Windowed.
+[2024.04.14-23.38.07:439][145]LogViewport: Scene viewport resized to 2536x1131, mode Windowed.
+[2024.04.14-23.38.07:462][146]LogViewport: Scene viewport resized to 2559x1131, mode Windowed.
+[2024.04.14-23.38.07:484][147]LogViewport: Scene viewport resized to 2576x1131, mode Windowed.
+[2024.04.14-23.38.07:506][148]LogViewport: Scene viewport resized to 2589x1131, mode Windowed.
+[2024.04.14-23.38.07:528][149]LogViewport: Scene viewport resized to 2594x1131, mode Windowed.
+[2024.04.14-23.38.07:828][183]LogViewport: Scene viewport resized to 2586x1131, mode Windowed.
+[2024.04.14-23.38.07:850][184]LogViewport: Scene viewport resized to 2549x1131, mode Windowed.
+[2024.04.14-23.38.07:872][185]LogViewport: Scene viewport resized to 2481x1131, mode Windowed.
+[2024.04.14-23.38.07:895][186]LogViewport: Scene viewport resized to 2401x1131, mode Windowed.
+[2024.04.14-23.38.07:918][187]LogViewport: Scene viewport resized to 2369x1131, mode Windowed.
+[2024.04.14-23.38.07:941][188]LogViewport: Scene viewport resized to 2355x1131, mode Windowed.
+[2024.04.14-23.38.07:963][189]LogViewport: Scene viewport resized to 2354x1131, mode Windowed.
+[2024.04.14-23.38.08:261][223]LogViewport: Scene viewport resized to 2355x1131, mode Windowed.
+[2024.04.14-23.38.08:282][224]LogViewport: Scene viewport resized to 2363x1131, mode Windowed.
+[2024.04.14-23.38.08:305][225]LogViewport: Scene viewport resized to 2391x1131, mode Windowed.
+[2024.04.14-23.38.08:327][226]LogViewport: Scene viewport resized to 2426x1131, mode Windowed.
+[2024.04.14-23.38.08:351][227]LogViewport: Scene viewport resized to 2453x1131, mode Windowed.
+[2024.04.14-23.38.08:372][228]LogViewport: Scene viewport resized to 2458x1131, mode Windowed.
+[2024.04.14-23.38.08:395][229]LogViewport: Scene viewport resized to 2461x1131, mode Windowed.
+[2024.04.14-23.38.08:416][230]LogViewport: Scene viewport resized to 2465x1131, mode Windowed.
+[2024.04.14-23.38.08:438][231]LogViewport: Scene viewport resized to 2480x1131, mode Windowed.
+[2024.04.14-23.38.08:460][232]LogViewport: Scene viewport resized to 2498x1131, mode Windowed.
+[2024.04.14-23.38.08:481][233]LogViewport: Scene viewport resized to 2530x1131, mode Windowed.
+[2024.04.14-23.38.08:505][234]LogViewport: Scene viewport resized to 2547x1131, mode Windowed.
+[2024.04.14-23.38.08:527][235]LogViewport: Scene viewport resized to 2550x1131, mode Windowed.
+[2024.04.14-23.38.09:070][298]LogViewport: Scene viewport resized to 2547x1131, mode Windowed.
+[2024.04.14-23.38.09:092][299]LogViewport: Scene viewport resized to 2546x1131, mode Windowed.
+[2024.04.14-23.38.09:113][300]LogViewport: Scene viewport resized to 2541x1131, mode Windowed.
+[2024.04.14-23.38.09:134][301]LogViewport: Scene viewport resized to 2535x1131, mode Windowed.
+[2024.04.14-23.38.09:156][302]LogViewport: Scene viewport resized to 2532x1131, mode Windowed.
+[2024.04.14-23.38.09:186][304]LogViewport: Scene viewport resized to 2531x1131, mode Windowed.
+[2024.04.14-23.38.09:216][306]LogViewport: Scene viewport resized to 2529x1131, mode Windowed.
+[2024.04.14-23.38.09:245][308]LogViewport: Scene viewport resized to 2528x1131, mode Windowed.
+[2024.04.14-23.38.35:383][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.14-23.38.35:388][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/57/HSD1F3PH45POTKFDZTNA9Z_Auto1
+[2024.04.14-23.38.35:388][404]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/HSD1F3PH45POTKFDZTNA9Z_Auto121F92139425D34AA52803EB2D3DC15E3.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/57/HSD1F3PH45POTKFDZTNA9Z_Auto1.uasset'
+[2024.04.14-23.38.35:389][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.025
+[2024.04.14-23.38.35:389][404]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2024.04.14-23.38.35:389][404]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Levels/DeathSequence] ([1] browsable assets)...
+[2024.04.14-23.38.35:389][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Levels/DeathSequence]
+[2024.04.14-23.38.35:390][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Levels/DeathSequence_Auto1
+[2024.04.14-23.38.35:390][404]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/DeathSequence_Auto1A2BC83B942364BA2B28DC5A3FB8B2DE4.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Autosaves/Game/Blueprints/Levels/DeathSequence_Auto1.uasset'
+[2024.04.14-23.38.35:390][404]LogFileHelpers: Auto-saving content packages took 0.001
+[2024.04.14-23.40.38:487][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.14-23.40.38:496][587]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.14-23.40.38:496][587]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.14-23.40.38:498][587]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 754 ms)
+[2024.04.14-23.40.38:498][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.14-23.40.38:498][587]PIE: New page: PIE session: ThirdPersonMap (Apr. 14, 2024, 9:40:38 a.m.)
+[2024.04.14-23.40.38:498][587]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.40.39:187][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.689250s)
+[2024.04.14-23.40.39:187][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.689279s)
+[2024.04.14-23.40.39:202][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.14-23.40.39:205][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.40.39:205][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.40.39:205][587]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.14-23.40.39:206][587]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.14-23.40.39:206][587]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.14-23.40.39:206][587]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.14-23.40.39:206][587]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.14-23.40.39:469][587]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.14-23.40.39:469][587]LogWorldPartition: Display: WorldPartition initialize took 263 ms (total: 4.51 sec)
+[2024.04.14-23.40.39:469][587]LogPlayLevel: PIE: World Init took: (0.264098s)
+[2024.04.14-23.40.39:469][587]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.14-23.40.39:469][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.14-23.40.39:469][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.14-23.40.39:469][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.14-23.40.39:469][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.14-23.40.39:469][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.14-23.40.39:471][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.14-23.40.39:487][587]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.14-23.40.39:487][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.14-23.40.39:487][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.14-23.40.39:487][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.14-23.40.39:488][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.14-23.40.39:488][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.14-23.40.39:489][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.14-23.40.39:490][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.14-23.40.39:490][587]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.14-23.40.39:490][587]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.04.14-23.40.39:490][587]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.14-23.40.39:527][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.40.39:527][587]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.14-23.40.39:641][587]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.40.39:641][587]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.14-23.40.39:641][587]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.14-16.40.39
+[2024.04.14-23.40.39:643][587]LogWorld: Bringing up level for play took: 0.115467
+[2024.04.14-23.40.39:645][587]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.04.14-23.40.39:646][587]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.14-23.40.39:646][587]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.14-23.40.39:646][587]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.14-23.40.39:647][587]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.14-23.40.39:659][587]PIE: Server logged in
+[2024.04.14-23.40.39:663][587]PIE: Play in editor total start time 1.168 seconds.
+[2024.04.14-23.40.39:682][587]LogViewport: Scene viewport resized to 3831x2180, mode Windowed.
+[2024.04.14-23.40.41:651][644]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.14-23.40.49:212][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.14-23.40.49:212][909]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.14-23.40.49:212][909]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.14-23.40.49:232][909]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.14-23.40.49:234][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.40.49:234][909]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.14-23.40.49:239][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.14-23.40.49:246][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.14-23.40.49:263][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.14-23.40.49:267][909]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.14-23.40.49:268][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.14-23.40.49:269][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.14-23.40.49:279][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.14-23.40.49:339][910]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.04.14-23.40.54:481][210]Cmd: DELETE
+[2024.04.14-23.40.54:481][210]Cmd: ACTOR DELETE
+[2024.04.14-23.40.54:562][210]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.04.14-23.40.54:580][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.14-23.40.54:585][210]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2024.04.14-23.40.56:504][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.40.56:548][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.14-23.40.56:563][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.14-23.40.56:578][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.14-23.40.56:584][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.60 sec)
+[2024.04.14-23.41.22:901][987]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage.Steel_Attack_Melee_A_Montage
+[2024.04.14-23.41.22:904][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.41.22:904][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.41.22:911][987]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.14-23.41.23:102][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.41.23:102][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.14-23.41.23:243][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.41.23:259][987]LogViewport: Scene viewport resized to 2528x1131, mode Windowed.
+[2024.04.14-23.41.23:390][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.14-23.43.08:486][577]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Ability_E_Engage_010...
+[2024.04.14-23.43.08:507][577]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Ability_E_Engage_010.Steel_Ability_E_Engage_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.43.12:587][989]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Ability_E_Engage_020...
+[2024.04.14-23.43.12:617][989]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Ability_E_Engage_020.Steel_Ability_E_Engage_020: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.43.12:619][989]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/06/6e/6269ef168943aac4e346bbd22f5ada5df0c0.udd from 'Unknown Audio'.
+[2024.04.14-23.43.17:074][452]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Ability_E_Engage_030...
+[2024.04.14-23.43.17:102][452]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Ability_E_Engage_030.Steel_Ability_E_Engage_030: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.43.17:104][452]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/1f/12/b75092630f1814569745e4e2203dc7c216db.udd from 'Unknown Audio'.
+[2024.04.14-23.43.19:979][751]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Ability_LMB_Engage_010...
+[2024.04.14-23.43.19:979][751]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Ability_LMB_Engage_020...
+[2024.04.14-23.43.19:979][751]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Ability_LMB_Engage_030...
+[2024.04.14-23.43.19:989][751]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Ability_LMB_Engage_030.Steel_Ability_LMB_Engage_030: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.43.19:990][751]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Ability_LMB_Engage_020.Steel_Ability_LMB_Engage_020: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.43.19:990][751]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Ability_LMB_Engage_010.Steel_Ability_LMB_Engage_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.43.19:993][751]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/69/f0/370a9a988484a07a6a642db279587f2e58e4.udd from '/Game/ParagonSteel/Audio/Wavs/Steel_Ability_LMB_Engage_010.Steel_Ability_LMB_Engage_010'.
+[2024.04.14-23.44.29:593][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Lore_Drongo_100...
+[2024.04.14-23.44.29:614][576]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Lore_Drongo_100.Steel_Lore_Drongo_100: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.44.29:616][576]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/9a/2e/cd20ff3f90a777f4c1fc81ca48ea13ee005e.udd from 'Unknown Audio'.
+[2024.04.14-23.44.53:732][939]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Level_AbilityLevelConfirm_030...
+[2024.04.14-23.44.53:743][939]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Level_AbilityLevelConfirm_030.Steel_Level_AbilityLevelConfirm_030: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.44.53:745][939]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/f8/26/8654b61d668defa2bf2195c3982fb0c53fa8.udd from 'Unknown Audio'.
+[2024.04.14-23.44.59:196][503]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Kill_Streak_030...
+[2024.04.14-23.44.59:223][503]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Kill_Streak_030.Steel_Kill_Streak_030: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.44.59:225][503]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/78/d7/15492f0f6bdf177c0a91a909cd8b59d1e5eb.udd from 'Unknown SoundWave'.
+[2024.04.14-23.45.02:491][814]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Kill_Streak_020...
+[2024.04.14-23.45.02:514][814]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Kill_Streak_020.Steel_Kill_Streak_020: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.45.04:908][ 66]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Kill_Streak_010...
+[2024.04.14-23.45.04:930][ 66]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Kill_Streak_010.Steel_Kill_Streak_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.45.04:932][ 66]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/7a/6b/1f7e58f6a5d5fea7b45ce269c59b74580eb6.udd from 'Unknown Audio'.
+[2024.04.14-23.45.08:254][397]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Kill_Shutdown_020...
+[2024.04.14-23.45.08:275][397]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Kill_Shutdown_020.Steel_Kill_Shutdown_020: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.45.21:361][734]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Kill_Enemy_030...
+[2024.04.14-23.45.21:380][734]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Kill_Enemy_030.Steel_Kill_Enemy_030: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.45.21:381][734]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/12/5c/a1547143cf144dadb96375ee91d2190f3d91.udd from 'Unknown Audio'.
+[2024.04.14-23.45.41:459][668]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Health_SufferedCrit_020...
+[2024.04.14-23.45.41:476][668]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Health_SufferedCrit_020.Steel_Health_SufferedCrit_020: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.45.57:618][146]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Swing_012...
+[2024.04.14-23.45.57:628][146]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Swing_012.Steel_Effort_Swing_012: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.46.26:614][  8]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Pain_010...
+[2024.04.14-23.46.26:622][  8]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Pain_010.Steel_Effort_Pain_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.46.26:623][  8]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/77/92/10d606ef9e186556427ee91286d3c1d2e9ea.udd from 'Unknown Audio'.
+[2024.04.14-23.46.29:582][322]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Pain_011...
+[2024.04.14-23.46.29:590][322]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Pain_011.Steel_Effort_Pain_011: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.46.31:833][547]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Pain_012...
+[2024.04.14-23.46.31:841][547]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Pain_012.Steel_Effort_Pain_012: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.46.31:843][547]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/6e/9c/02d5af4a70a5724b14dcd34deb46a88b276d.udd from 'Unknown Audio'.
+[2024.04.14-23.46.42:258][598]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Swing_010...
+[2024.04.14-23.46.42:272][598]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Swing_010.Steel_Effort_Swing_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.46.42:279][598]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/40/9f/a9195d8d2930475031268ae8b0cd3384a486.udd from 'Unknown Audio'.
+[2024.04.14-23.46.44:796][862]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Swing_011...
+[2024.04.14-23.46.44:804][862]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Swing_011.Steel_Effort_Swing_011: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.46.51:649][512]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Swing_013...
+[2024.04.14-23.46.51:657][512]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Swing_013.Steel_Effort_Swing_013: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.47.05:981][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.47.06:042][  6]LogSavePackage: Moving output files for package: /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage
+[2024.04.14-23.47.06:042][  6]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Steel_Attack_Melee_A_Montage5C3228B747AB1A89AA26EEB7276BDA17.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage.uasset'
+[2024.04.14-23.47.06:046][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.67 sec)
+[2024.04.14-23.47.06:047][  6]AssetCheck: New page: Asset Save: Steel_Attack_Melee_A_Montage
+[2024.04.14-23.47.06:047][  6]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage.Steel_Attack_Melee_A_Montage
+[2024.04.14-23.47.52:040][794]LogStaticMesh: Display: Building static mesh SM_ManaBombFlame...
+[2024.04.14-23.47.52:044][794]LogStaticMesh: Display: Building static mesh S_Sphere_FlippedNormals...
+[2024.04.14-23.47.52:044][794]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonSteel/FX/Meshes/Heroes/SM_ManaBombFlame.SM_ManaBombFlame
+[2024.04.14-23.47.52:044][794]LogStaticMesh: Display: Building static mesh SM_Hexgon_Plates_Segment...
+[2024.04.14-23.47.52:045][794]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonSteel/FX/Meshes/Shapes/SM_Hexgon_Plates_Segment.SM_Hexgon_Plates_Segment
+[2024.04.14-23.47.52:046][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Noise/T_Soft_Noise.T_Soft_Noise (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:049][794]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Heroes/SM_Steel_SlowDome) ...
+[2024.04.14-23.47.52:050][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_Shockwave.T_Shockwave (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:051][794]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Shapes/S_Sphere_FlippedNormals.S_Sphere_FlippedNormals
+[2024.04.14-23.47.52:052][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/NormalShapes/T_Torus_N.T_Torus_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:067][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Energy/Electricity/T_Lightning_B_Tile.T_Lightning_B_Tile (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:076][794]LogStaticMesh: Display: Building static mesh SM_Steel_SlowDome...
+[2024.04.14-23.47.52:092][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Tech/T_HexShieldStaggered.T_HexShieldStaggered (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:117][794]LogStaticMesh: Built static mesh [0.04s] /Game/ParagonSteel/FX/Meshes/Heroes/SM_Steel_SlowDome.SM_Steel_SlowDome
+[2024.04.14-23.47.52:125][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/T_Steel_shieldlines.T_Steel_shieldlines (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:154][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Noise/T_Perlin_Soft_Packed.T_Perlin_Soft_Packed (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:187][794]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Noise/T_PerlinElectric_Packed_Gchannel_N.T_PerlinElectric_Packed_Gchannel_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.52:278][797]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Energy/Plasma/T_Steel_Poster_Tendrils_v2_Seamless.T_Steel_Poster_Tendrils_v2_Seamless (G8, 4096x4096 x1x1x1) (Required Memory Estimate: 426.729161 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.53:220][862]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Abilities/AbilityArmor/FX/P_Steel_AbilityArmor_Impact.P_Steel_AbilityArmor_Impact:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.47.53:524][880]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 51% occupied, 1920 triangles, SM_Steel_SlowDome
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Total job queries 554, among them cache hits 121 (21.84%)
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Tracking 410 distinct input hashes that result in 302 distinct outputs (73.66%)
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: RAM used: 10.39 MiB of 6.40 GiB budget. Usage: 0.16%
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.45 s
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 0.44 s
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Job life time (pending + execution): average 0.45 s, max 0.45
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Shader code size: average 4.648 KiB, min 4.648 KiB, max 4.648 KiB
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.45 s
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Total thread time: 0.124 s
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Total thread preprocess time: 0.018 s
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Percentage time preprocessing: 14.64%
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Effective parallelization: 0.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.04.14-23.47.55:218][  5]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.48.07:239][ 29]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Skins/Doomsday/P_Steel_AbilityArmor_Impact_L_M.P_Steel_AbilityArmor_Impact_L_M:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.48.07:320][ 31]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/Skins/Doomsday/T_Steel_Doomsday_Ult_Decal_M.T_Steel_Doomsday_Ult_Decal_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.48.53:187][641]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_SquareMaskTightEdge.T_SquareMaskTightEdge (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.48.53:211][641]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_WaterInterract_Packed_D.T_WaterInterract_Packed_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.48.53:267][642]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Smoke/T_TileSmoke_01_Height.T_TileSmoke_01_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.48.54:766][791]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail'. Spawning suppressed.
+[2024.04.14-23.48.55:636][881]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail'. Spawning suppressed.
+[2024.04.14-23.48.56:495][967]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail'. Spawning suppressed.
+[2024.04.14-23.48.57:362][ 56]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail'. Spawning suppressed.
+[2024.04.14-23.48.58:228][147]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail'. Spawning suppressed.
+[2024.04.14-23.49.01:858][456]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/T_Edge.T_Edge (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.04.14-23.49.01:859][456]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/T_TrailTest.T_TrailTest (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.04.14-23.49.02:610][516]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail_Charge1'. Spawning suppressed.
+[2024.04.14-23.49.03:475][606]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail_Charge1'. Spawning suppressed.
+[2024.04.14-23.49.04:342][697]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail_Charge1'. Spawning suppressed.
+[2024.04.14-23.49.05:209][787]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail_Charge1'. Spawning suppressed.
+[2024.04.14-23.49.12:272][472]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_A_Montage' tried to spawn infinitely looping particle system 'P_Ambient_Dust'. Spawning suppressed.
+[2024.04.14-23.49.37:012][988]LogTexture: Display: Building textures: /Game/ParagonSunWukong/FX/Textures/Masks/T_MaglevFX_Line.T_MaglevFX_Line (TFO_AutoDXT, 32x1024 x1x1x1) (Required Memory Estimate: 5.22909 MB), EncodeSpeed: Fast
+[2024.04.14-23.49.37:019][988]LogStaticMesh: Display: Building static mesh SM_HalfSphere_100...
+[2024.04.14-23.49.37:022][988]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonSunWukong/FX/Meshes/Shapes/SM_HalfSphere_100.SM_HalfSphere_100
+[2024.04.14-23.49.37:112][989]LogTexture: Display: Building textures: /Game/ParagonSunWukong/FX/Textures/Tile/Organic/T_WaterFlow_01_Foam_Tiled_4Real.T_WaterFlow_01_Foam_Tiled_4Real (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.50.33:882][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.50.33:949][ 65]LogSavePackage: Moving output files for package: /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage
+[2024.04.14-23.50.33:949][ 65]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Steel_Attack_Melee_A_Montage494965DB4DFDF235FE8EDA9D436CC876.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage.uasset'
+[2024.04.14-23.50.33:953][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.74 sec)
+[2024.04.14-23.50.33:955][ 65]AssetCheck: New page: Asset Save: Steel_Attack_Melee_A_Montage
+[2024.04.14-23.50.33:955][ 65]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_A_Montage.Steel_Attack_Melee_A_Montage
+[2024.04.14-23.50.39:268][545]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_B_Montage.Steel_Attack_Melee_B_Montage
+[2024.04.14-23.50.39:410][546]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.14-23.51.39:206][ 91]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_E_LIft_010...
+[2024.04.14-23.51.39:227][ 91]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_E_LIft_010.Steel_Effort_Ability_E_LIft_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.51.42:472][390]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_E_LIft_011...
+[2024.04.14-23.51.42:482][390]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_E_LIft_011.Steel_Effort_Ability_E_LIft_011: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.51.42:484][390]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/0c/ac/2e003c0f409d67a2eaf84fdd298b52c2e4a6.udd from 'Unknown Audio'.
+[2024.04.14-23.52.34:568][157]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Flares/Org_A/T_LensFlare19.T_LensFlare19 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.34:568][157]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Flares/Org_A/T_LensFlare18.T_LensFlare18 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.34:572][157]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Abilities/Primary/FX/P_Steel_Melee_Charge_A.P_Steel_Melee_Charge_A:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Total job queries 579, among them cache hits 138 (23.83%)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Tracking 440 distinct input hashes that result in 331 distinct outputs (75.23%)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: RAM used: 11.21 MiB of 6.40 GiB budget. Usage: 0.17%
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Shaders Compiled: 25
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Jobs assigned 26, completed 25 (96.15%)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Average time worker was idle: 31.17 s
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Time job spent in pending queue: average 0.42 s, longest 0.88 s
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.55 s
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 1.09
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Shader code size: average 47.718 KiB, min 4.637 KiB, max 74.879 KiB
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.50 s
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Average processing rate: 16.66 jobs/sec
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Total thread time: 4.164 s
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Total thread preprocess time: 0.473 s
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Percentage time preprocessing: 11.35%
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Effective parallelization: 2.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.21 sec, max 0.23 sec, min 0.18 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.21 sec, max 0.23 sec, min 0.18 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    3 times, average 0.15 sec, max 0.16 sec, min 0.14 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    3 times, average 0.15 sec, max 0.16 sec, min 0.14 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.60% of total time (compiled    6 times, average 0.21 sec, max 0.23 sec, min 0.18 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.90% of total time (compiled    4 times, average 0.21 sec, max 0.23 sec, min 0.18 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                                  FHitProxyVS - 14.09% of total time (compiled    4 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                            FDistortionMeshPS - 10.82% of total time (compiled    3 times, average 0.15 sec, max 0.16 sec, min 0.14 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display:                                            FDistortionMeshVS - 10.73% of total time (compiled    3 times, average 0.15 sec, max 0.16 sec, min 0.14 sec)
+[2024.04.14-23.52.36:693][309]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.52.53:869][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_Beam_Gradient_02.T_Beam_Gradient_02 (TFO_AutoDXT, 32x1024 x1x1x1) (Required Memory Estimate: 5.22909 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:871][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Water/T_WaveDisplaced_N.T_WaveDisplaced_N (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:873][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/Cinematics/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:873][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/Cinematics/T_MaskingDown.T_MaskingDown (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:882][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_TetraPanMask.T_TetraPanMask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:889][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_Vert_Gradient_Soft.T_Vert_Gradient_Soft (TFO_AutoDXT, 32x1024 x1x1x1) (Required Memory Estimate: 5.22909 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:890][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Noise/T_NoiseBubbly_Large.T_NoiseBubbly_Large (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:893][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Heroes/Steel/Cinematics/T_ShieldLightrays_color.T_ShieldLightrays_color (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 84.604147 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:906][744]LogStaticMesh: Display: Building static mesh SM_Plasma_Mesh_Reduced...
+[2024.04.14-23.52.53:907][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_WaterTile_Blur_Packed.T_WaterTile_Blur_Packed (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:917][744]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Smoke/SM_Plasma_Mesh_Reduced) ...
+[2024.04.14-23.52.53:929][744]LogStaticMesh: Display: Building static mesh SM_Steel_UltSmashShockwave...
+[2024.04.14-23.52.53:939][744]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Heroes/Steel/Abilities/SM_Steel_UltSmashShockwave.SM_Steel_UltSmashShockwave
+[2024.04.14-23.52.53:946][744]LogStaticMesh: Display: Building static mesh SM_Water_Footfall_Average...
+[2024.04.14-23.52.53:949][744]LogStaticMesh: Built static mesh [0.04s] /Game/ParagonSteel/FX/Meshes/Smoke/SM_Plasma_Mesh_Reduced.SM_Plasma_Mesh_Reduced
+[2024.04.14-23.52.53:951][744]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Water/SM_Water_Footfall_Average.SM_Water_Footfall_Average
+[2024.04.14-23.52.53:956][744]LogStaticMesh: Display: Building static mesh SM_WaterImpact_Large_Cylinder...
+[2024.04.14-23.52.53:958][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Materials/MaterialFunctions/Textures/Noise/T_noise_flamy_Tile.T_noise_flamy_Tile (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.53:958][744]LogStaticMesh: Display: Building static mesh SM_WaterFall_RippleMeshes...
+[2024.04.14-23.52.53:963][744]LogStaticMesh: Display: Building static mesh SM_WaterImpact_Large_Cylinder_Reverse...
+[2024.04.14-23.52.53:965][744]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Water/SM_WaterImpact_Large_Cylinder.SM_WaterImpact_Large_Cylinder
+[2024.04.14-23.52.53:967][744]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Water/SM_WaterFall_RippleMeshes) ...
+[2024.04.14-23.52.53:975][744]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Water/SM_WaterImpact_Large_Cylinder_Reverse.SM_WaterImpact_Large_Cylinder_Reverse
+[2024.04.14-23.52.53:981][744]LogStaticMesh: Built static mesh [0.02s] /Game/ParagonSteel/FX/Meshes/Water/SM_WaterFall_RippleMeshes.SM_WaterFall_RippleMeshes
+[2024.04.14-23.52.53:982][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Materials/MaterialFunctions/Textures/Noise/T_Cave_Noise_14.T_Cave_Noise_14 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:081][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_Water_Caustics01.T_Water_Caustics01 (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062483 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:089][744]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Heat/T_2ndInfectedMapNormal.T_2ndInfectedMapNormal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:124][745]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Materials/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise04_N.T_AtmosphericCloudNoise04_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:238][749]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_Water_M.T_Water_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:288][751]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_Water_N.T_Water_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:335][752]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_WaterTests_BF_01E_D.T_WaterTests_BF_01E_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:376][754]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_WaterTests_BF_01E_N.T_WaterTests_BF_01E_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.54:452][757]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Abilities/Ultimate/FX/P_Steel_Ultimate_Impact.P_Steel_Ultimate_Impact:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.52.55:736][835]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 480 triangles, SM_Steel_UltSmashShockwave
+[2024.04.14-23.53.32:766][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.53.32:805][947]LogSavePackage: Moving output files for package: /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_B_Montage
+[2024.04.14-23.53.32:805][947]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Steel_Attack_Melee_B_MontageEA9029344D5B43A7034FA0ADC67D486B.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_B_Montage.uasset'
+[2024.04.14-23.53.32:809][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1.78 sec)
+[2024.04.14-23.53.32:811][947]AssetCheck: New page: Asset Save: Steel_Attack_Melee_B_Montage
+[2024.04.14-23.53.32:811][947]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_B_Montage.Steel_Attack_Melee_B_Montage
+[2024.04.14-23.53.38:252][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.53.38:309][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI_Enemy/BP_AI_Enemy" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/AI_Enemy/BP_AI_Enemy.uasset" SILENT=true
+[2024.04.14-23.53.38:335][442]LogSavePackage: Moving output files for package: /Game/Blueprints/AI_Enemy/BP_AI_Enemy
+[2024.04.14-23.53.38:335][442]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_AI_Enemy0305BD774536C6FB7957C69BC3F72D18.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/AI_Enemy/BP_AI_Enemy.uasset'
+[2024.04.14-23.53.38:339][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.87 sec)
+[2024.04.14-23.53.38:341][442]AssetCheck: New page: Asset Save: BP_AI_Enemy
+[2024.04.14-23.53.38:341][442]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/AI_Enemy/BP_AI_Enemy.BP_AI_Enemy
+[2024.04.14-23.53.41:292][703]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage.Steel_Attack_Melee_C_Montage
+[2024.04.14-23.54.23:833][710]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_E_LIft_012...
+[2024.04.14-23.54.23:851][710]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_E_LIft_012.Steel_Effort_Ability_E_LIft_012: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.26:755][974]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_E_LIft_013...
+[2024.04.14-23.54.26:777][974]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_E_LIft_013.Steel_Effort_Ability_E_LIft_013: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.30:169][272]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_E_LIft_014...
+[2024.04.14-23.54.30:188][272]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_E_LIft_014.Steel_Effort_Ability_E_LIft_014: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.30:190][272]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/c2/a3/eb8aa90884df3d4b1c0ba39903b8e82d077d.udd from 'Unknown Audio'.
+[2024.04.14-23.54.34:418][649]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_Primary_Swing_010...
+[2024.04.14-23.54.34:430][649]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_Primary_Swing_010.Steel_Effort_Ability_Primary_Swing_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.34:432][649]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/c6/97/10a68f8c6c48acdafa6905969ee3df6ab8f4.udd from 'Unknown Audio'.
+[2024.04.14-23.54.40:353][182]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_Primary_Swing_011...
+[2024.04.14-23.54.40:366][182]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_Primary_Swing_011.Steel_Effort_Ability_Primary_Swing_011: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.45:118][616]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_Primary_Swing_013...
+[2024.04.14-23.54.45:132][616]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_Primary_Swing_013.Steel_Effort_Ability_Primary_Swing_013: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.45:134][616]LogDerivedDataCache: C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/guyla/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/32/34/5d6e260e68cba87b27b579e946ff2647adb0.udd from 'Unknown Audio'.
+[2024.04.14-23.54.49:393][  6]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_Primary_Swing_012...
+[2024.04.14-23.54.49:408][  6]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_Primary_Swing_012.Steel_Effort_Ability_Primary_Swing_012: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.54.54:873][498]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steel_Effort_Ability_Q_Charge_010...
+[2024.04.14-23.54.54:882][498]LogAudio: Display: Chunk sizes for SoundWave /Game/ParagonSteel/Audio/Wavs/Steel_Effort_Ability_Q_Charge_010.Steel_Effort_Ability_Q_Charge_010: Chunk0=28 bytes, Chunk1-N=256k
+[2024.04.14-23.55.29:518][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Materials/MaterialFunctions/Textures/Noise/T_TilingNoise16.T_TilingNoise16 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.29:528][616]LogStaticMesh: Display: Building static mesh SM_Boulders_3...
+[2024.04.14-23.55.29:533][616]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonSteel/FX/Meshes/SM_Boulders_3.SM_Boulders_3
+[2024.04.14-23.55.29:551][616]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Heroes/Steel/Cinematics/SM_Steel_Outline_Planar) ...
+[2024.04.14-23.55.29:578][616]LogStaticMesh: Display: Building static mesh SM_Steel_Outline_Planar...
+[2024.04.14-23.55.29:639][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Rock/T_Tundra_Rocks_01_N.T_Tundra_Rocks_01_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.29:651][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Rock/T_Tundra_Rocks01_M.T_Tundra_Rocks01_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.29:659][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Debris/T_Debris.T_Debris (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.29:674][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Debris/T_Debris_Blur.T_Debris_Blur (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.29:682][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Debris/T_Debris_Blur_A.T_Debris_Blur_A (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.30:214][616]LogStaticMesh: Built static mesh [0.64s] /Game/ParagonSteel/FX/Meshes/Heroes/Steel/Cinematics/SM_Steel_Outline_Planar.SM_Steel_Outline_Planar
+[2024.04.14-23.55.30:224][616]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Cinematics/FX/P_Steel_CowCatcher_DirtTrail.P_Steel_CowCatcher_DirtTrail:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.37:095][116]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Flares/Org_A/T_LDR_Flare01.T_LDR_Flare01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.37:111][116]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Heroes/Steel/Abilities/SM_Dive_Flames) ...
+[2024.04.14-23.55.37:120][116]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/P_Steel_EmoteFX_ShieldSparks.P_Steel_EmoteFX_ShieldSparks:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Total job queries 624, among them cache hits 155 (24.84%)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Tracking 469 distinct input hashes that result in 359 distinct outputs (76.55%)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: RAM used: 12.03 MiB of 6.40 GiB budget. Usage: 0.18%
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Average time worker was idle: 91.32 s
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 0.88 s
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.55 s
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 1.09
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Shader code size: average 49.565 KiB, min 4.637 KiB, max 75.633 KiB
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.11 s
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Average processing rate: 15.42 jobs/sec
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Total thread time: 8.333 s
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Total thread preprocess time: 0.975 s
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Percentage time preprocessing: 11.70%
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Effective parallelization: 2.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.21 sec, max 0.24 sec, min 0.19 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   12 times, average 0.21 sec, max 0.25 sec, min 0.14 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.20 sec, max 0.23 sec, min 0.16 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    6 times, average 0.16 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    6 times, average 0.15 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.06% of total time (compiled   12 times, average 0.21 sec, max 0.25 sec, min 0.14 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.12% of total time (compiled   10 times, average 0.20 sec, max 0.23 sec, min 0.16 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                            FDistortionMeshVS - 11.30% of total time (compiled    6 times, average 0.16 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                            FDistortionMeshPS - 10.91% of total time (compiled    6 times, average 0.15 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.77% of total time (compiled    6 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2024.04.14-23.55.39:140][257]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.55.45:501][739]LogStaticMesh: Display: Building static mesh SM_Aura_v1...
+[2024.04.14-23.55.45:506][739]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonSteel/FX/Meshes/Heroes/SM_Aura_v1.SM_Aura_v1
+[2024.04.14-23.56.53:553][424]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSunWukong/FX/Meshes/Shapes/SM_Sphere_Scale_Unit_100) ...
+[2024.04.14-23.56.53:553][424]LogStaticMesh: Display: Building static mesh SM_Wukong_Shockwave...
+[2024.04.14-23.56.53:567][424]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSunWukong/FX/Meshes/Heroes/SM_Wukong_Shockwave.SM_Wukong_Shockwave
+[2024.04.14-23.56.53:576][424]LogTexture: Display: Building textures: /Game/ParagonSunWukong/FX/Particles/Wukong/Abilities/DoubleJump/FX/p_GroundSlam_Radius.p_GroundSlam_Radius:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.57.10:871][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.57.10:928][793]LogSavePackage: Moving output files for package: /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage
+[2024.04.14-23.57.10:928][793]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Steel_Attack_Melee_C_Montage0DBD387C44C771E885A543B8B09803FC.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage.uasset'
+[2024.04.14-23.57.10:933][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.93 sec)
+[2024.04.14-23.57.10:934][793]AssetCheck: New page: Asset Save: Steel_Attack_Melee_C_Montage
+[2024.04.14-23.57.10:934][793]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage.Steel_Attack_Melee_C_Montage
+[2024.04.14-23.57.12:908][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-23.57.12:967][955]LogSavePackage: Moving output files for package: /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage
+[2024.04.14-23.57.12:967][955]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Steel_Attack_Melee_C_MontageCB9443DD41BD5279DA4DEB9CE36286E7.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage.uasset'
+[2024.04.14-23.57.12:971][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.99 sec)
+[2024.04.14-23.57.12:972][955]AssetCheck: New page: Asset Save: Steel_Attack_Melee_C_Montage
+[2024.04.14-23.57.12:972][955]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_C_Montage.Steel_Attack_Melee_C_Montage
+[2024.04.14-23.57.16:843][272]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_D_V1_Montage.Steel_Attack_Melee_D_V1_Montage
+[2024.04.14-23.58.49:192][633]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/FluidPatterns/T_FluidTile01_DA.T_FluidTile01_DA (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.14-23.58.50:723][719]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails'. Spawning suppressed.
+[2024.04.14-23.58.51:522][786]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails'. Spawning suppressed.
+[2024.04.14-23.58.52:322][835]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails'. Spawning suppressed.
+[2024.04.14-23.58.58:126][283]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails_Doomsday_L'. Spawning suppressed.
+[2024.04.14-23.58.58:925][355]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails_Doomsday_L'. Spawning suppressed.
+[2024.04.14-23.58.59:719][427]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails_Doomsday_L'. Spawning suppressed.
+[2024.04.14-23.59.04:946][825]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_PunchTrails_Doomsday_R'. Spawning suppressed.
+[2024.04.14-23.59.07:873][ 49]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_TankMoteNoise.T_TankMoteNoise (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.59.07:874][ 49]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Masks/T_TankMote.T_TankMote (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.59.07:881][ 49]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/P_Recall_BoneSocket_Particles_Steel.P_Recall_BoneSocket_Particles_Steel:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: Total job queries 676, among them cache hits 175 (25.89%)
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: Tracking 498 distinct input hashes that result in 380 distinct outputs (76.31%)
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: RAM used: 12.79 MiB of 6.40 GiB budget. Usage: 0.20%
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: Shaders Compiled: 63
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: Jobs assigned 66, completed 63 (95.45%)
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: Average time worker was idle: 83.41 s
+[2024.04.14-23.59.09:812][216]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 0.88 s
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Job execution time: average 0.33 s, max 0.55 s
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.09
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Shader code size: average 48.585 KiB, min 4.637 KiB, max 75.633 KiB
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.26 s
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Average processing rate: 14.78 jobs/sec
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Total thread time: 10.842 s
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Total thread preprocess time: 1.245 s
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Percentage time preprocessing: 11.49%
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Effective parallelization: 2.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.23 sec, max 0.25 sec, min 0.19 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.21 sec, max 0.25 sec, min 0.14 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.20 sec, max 0.23 sec, min 0.16 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    8 times, average 0.16 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    8 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.20% of total time (compiled   15 times, average 0.21 sec, max 0.25 sec, min 0.14 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.34% of total time (compiled   11 times, average 0.20 sec, max 0.23 sec, min 0.16 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                            FDistortionMeshVS - 11.45% of total time (compiled    8 times, average 0.16 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.00% of total time (compiled    8 times, average 0.15 sec, max 0.16 sec, min 0.13 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display:                                            FDistortionMeshPS - 10.93% of total time (compiled    8 times, average 0.15 sec, max 0.17 sec, min 0.13 sec)
+[2024.04.14-23.59.09:813][216]LogShaderCompilers: Display: ================================================
+[2024.04.14-23.59.12:959][444]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Sparks/T_SparksPhoto.T_SparksPhoto (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.14-23.59.23:422][278]LogStaticMesh: Display: Building static mesh SM_Shield_BlueEdges2...
+[2024.04.14-23.59.23:423][278]LogStaticMesh: Built static mesh [0.00s] /Game/ParagonSteel/FX/Meshes/Heroes/Steel/Cinematics/SM_Shield_BlueEdges2.SM_Shield_BlueEdges2
+[2024.04.14-23.59.23:429][278]LogStaticMesh: Display: Building static mesh SM_Shield_Lightbeams...
+[2024.04.14-23.59.23:441][278]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Heroes/Steel/Cinematics/SM_Shield_Lightbeams) ...
+[2024.04.14-23.59.23:443][278]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Heroes/Steel/Cinematics/SM_Shield_Lightbeams.SM_Shield_Lightbeams
+[2024.04.14-23.59.23:568][282]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Cinematics/FX/P_ShieldSolar.P_ShieldSolar:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.14-23.59.34:217][119]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Skins/Doomsday/P_ShieldSolar_Doomsday.P_ShieldSolar_Doomsday:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.00:798][318]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_Sparks'. Spawning suppressed.
+[2024.04.15-00.00.01:603][370]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_Sparks'. Spawning suppressed.
+[2024.04.15-00.00.02:393][425]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'P_Sparks'. Spawning suppressed.
+[2024.04.15-00.00.37:343][256]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Debris/T_sand.T_sand (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.37:359][256]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Smoke/T_TilingClouds_01.T_TilingClouds_01 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.37:360][256]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Shapes/SM_Recall_Cylinder) ...
+[2024.04.15-00.00.37:366][256]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Skins/Doomsday/P_Steel_Ultimate_Impact_Doomsday.P_Steel_Ultimate_Impact_Doomsday:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:112][929]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Smoke/T_Dust_Single_01.T_Dust_Single_01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:114][929]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_SplashMask.T_SplashMask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:128][929]LogStaticMesh: Display: Building static mesh SM_ShockRing...
+[2024.04.15-00.00.46:134][929]LogStaticMesh: Display: Building static mesh SM_WaterImpact_ImpactCylinder...
+[2024.04.15-00.00.46:135][929]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Shapes/SM_ShockRing.SM_ShockRing
+[2024.04.15-00.00.46:136][929]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonSteel/FX/Meshes/Shapes/SM_ShockRing) ...
+[2024.04.15-00.00.46:143][929]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Organic/T_tile_vector_noise_soft.T_tile_vector_noise_soft (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:148][929]LogStaticMesh: Built static mesh [0.01s] /Game/ParagonSteel/FX/Meshes/Water/SM_WaterImpact_ImpactCylinder.SM_WaterImpact_ImpactCylinder
+[2024.04.15-00.00.46:151][929]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_WaterSplash2x2.T_WaterSplash2x2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:189][929]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Smoke/T_SoftSmoke_03.T_SoftSmoke_03 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:237][930]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Tile/Noise/T_Perlin_Soft_Packed_Gchannel_N.T_Perlin_Soft_Packed_Gchannel_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:237][930]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_Water2_N.T_Water2_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:248][930]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Skins/Doomsday/P_Steel_Ultimate_Impact_Water_Doomsday.P_Steel_Ultimate_Impact_Water_Doomsday:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.15-00.00.46:253][930]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Water/T_WaterFoam2_D.T_WaterFoam2_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.15-00.01.37:389][ 23]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail'. Spawning suppressed.
+[2024.04.15-00.01.41:692][310]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail_Charge1'. Spawning suppressed.
+[2024.04.15-00.01.42:490][378]LogParticles: Warning: Particle Notify: Anim 'Steel_Attack_Melee_D_V1_Montage' tried to spawn infinitely looping particle system 'MeleeAnimTrail_Charge1'. Spawning suppressed.
+[2024.04.15-00.02.13:418][926]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Abilities/Ultimate/FX/P_DirtBlast.P_DirtBlast:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: ================================================
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: Total job queries 774, among them cache hits 217 (28.04%)
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: Tracking 553 distinct input hashes that result in 427 distinct outputs (77.22%)
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: RAM used: 14.30 MiB of 6.40 GiB budget. Usage: 0.22%
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: Shaders Compiled: 114
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: Jobs assigned 114, completed 114 (100%)
+[2024.04.15-00.02.16:440][120]LogShaderCompilers: Display: Average time worker was idle: 58.68 s
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 0.88 s
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Job execution time: average 0.30 s, max 0.55 s
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Job life time (pending + execution): average 0.55 s, max 1.16
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Shader code size: average 50.007 KiB, min 4.355 KiB, max 76.281 KiB
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.08 s
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Jobs were issued in 114 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Average processing rate: 16.10 jobs/sec
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Total thread time: 19.857 s
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Total thread preprocess time: 2.393 s
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Percentage time preprocessing: 12.05%
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Effective parallelization: 2.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 0.23 sec, max 0.25 sec, min 0.19 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   30 times, average 0.22 sec, max 0.33 sec, min 0.13 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.20 sec, max 0.32 sec, min 0.14 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled   10 times, average 0.15 sec, max 0.17 sec, min 0.14 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   17 times, average 0.15 sec, max 0.23 sec, min 0.13 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.60% of total time (compiled   30 times, average 0.22 sec, max 0.33 sec, min 0.13 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.61% of total time (compiled   23 times, average 0.20 sec, max 0.32 sec, min 0.14 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.94% of total time (compiled   17 times, average 0.15 sec, max 0.23 sec, min 0.13 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                                                  FHitProxyPS - 8.89% of total time (compiled   17 times, average 0.10 sec, max 0.19 sec, min 0.08 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.17% of total time (compiled    7 times, average 0.23 sec, max 0.25 sec, min 0.19 sec)
+[2024.04.15-00.02.16:441][120]LogShaderCompilers: Display: ================================================
+[2024.04.15-00.02.25:822][871]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Textures/Sparks/T_SparkSingle.T_SparkSingle (TFO_AutoDXT, 128x1024 x1x1x1) (Required Memory Estimate: 20.72909 MB), EncodeSpeed: Fast
+[2024.04.15-00.02.25:827][871]LogTexture: Display: Building textures: /Game/ParagonSteel/FX/Particles/Steel/Skins/Doomsday/P_EmbersWispySmoke_Doomsday.P_EmbersWispySmoke_Doomsday:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.04.15-00.02.36:330][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.02.36:388][716]LogSavePackage: Moving output files for package: /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_D_V1_Montage
+[2024.04.15-00.02.36:389][716]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Steel_Attack_Melee_D_V1_MontageE9FFCCD745FE04779377ECBC353D1167.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_D_V1_Montage.uasset'
+[2024.04.15-00.02.36:394][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.06 sec)
+[2024.04.15-00.02.36:395][716]AssetCheck: New page: Asset Save: Steel_Attack_Melee_D_V1_Montage
+[2024.04.15-00.02.36:395][716]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonSteel/Characters/Heroes/Steel/Animations/Steel_Attack_Melee_D_V1_Montage.Steel_Attack_Melee_D_V1_Montage
+[2024.04.15-00.02.43:392][155]LogViewport: Scene viewport resized to 1038x642, mode Windowed.
+[2024.04.15-00.02.53:095][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.02.53:148][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.15-00.02.53:174][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.15-00.02.53:190][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.15-00.02.53:194][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/H1/FKJ7AH3GUEA0ZAJSHQG9JO
+[2024.04.15-00.02.53:194][407]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/FKJ7AH3GUEA0ZAJSHQG9JO0201D2AF4EF73F30779BEFBA1A92EFFE.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/H1/FKJ7AH3GUEA0ZAJSHQG9JO.uasset'
+[2024.04.15-00.02.53:200][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.16 sec)
+[2024.04.15-00.02.53:201][407]AssetCheck: New page: Asset Save: BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631
+[2024.04.15-00.02.53:201][407]LogContentValidation: Display: Validating /Game/Blueprints/AI_Enemy/BP_AI_Enemy.BP_AI_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631
+[2024.04.15-00.02.54:190][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.02.54:197][441]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-00.02.54:197][441]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-00.02.54:198][441]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 756 ms)
+[2024.04.15-00.02.54:198][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.02.54:199][441]PIE: New page: PIE session: ThirdPersonMap (Apr. 14, 2024, 10:02:54 a.m.)
+[2024.04.15-00.02.54:199][441]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-00.02.54:933][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.734343s)
+[2024.04.15-00.02.54:933][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.734373s)
+[2024.04.15-00.02.54:946][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.15-00.02.54:948][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.02.54:948][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.02.54:948][441]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-00.02.54:949][441]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.02.54:949][441]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.02.54:949][441]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-00.02.54:949][441]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.02.55:215][441]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-00.02.55:215][441]LogWorldPartition: Display: WorldPartition initialize took 266 ms (total: 4.77 sec)
+[2024.04.15-00.02.55:215][441]LogPlayLevel: PIE: World Init took: (0.267914s)
+[2024.04.15-00.02.55:215][441]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.02.55:215][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.02.55:215][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.02.55:216][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.02.55:216][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.02.55:216][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.02.55:217][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.02.55:235][441]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-00.02.55:235][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.02.55:236][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.02.55:236][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.02.55:236][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.15-00.02.55:236][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.15-00.02.55:237][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.15-00.02.55:237][441]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.15-00.02.55:237][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.15-00.02.55:238][441]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.04.15-00.02.55:238][441]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.15-00.02.55:240][441]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-00.02.55:341][441]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-00.02.55:341][441]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-00.02.55:342][441]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.14-17.02.55
+[2024.04.15-00.02.55:342][441]LogWorld: Bringing up level for play took: 0.100777
+[2024.04.15-00.02.55:344][441]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.04.15-00.02.55:346][441]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-00.02.55:346][441]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-00.02.55:346][441]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-00.02.55:346][441]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-00.02.55:349][441]PIE: Server logged in
+[2024.04.15-00.02.55:350][441]PIE: Play in editor total start time 1.153 seconds.
+[2024.04.15-00.02.57:607][517]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-00.02.57:607][517]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.15-00.03.00:392][650]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.01:429][699]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.02:949][767]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.03:335][784]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-00.03.03:335][784]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_0.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-00.03.03:336][784]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.15-00.03.03:336][784]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.15-00.03.03:967][812]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.05:007][859]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.06:008][903]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.07:009][943]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.07:270][954]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-00.03.07:270][954]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_1.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-00.03.07:270][954]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.15-00.03.07:271][954]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.15-00.03.08:071][989]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.09:072][ 32]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.10:112][ 77]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.11:146][122]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.12:179][161]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.13:217][198]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.14:207][237]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.15:244][279]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.16:267][321]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.17:293][361]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.18:328][408]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.19:346][455]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.20:358][503]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.20:953][532]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-00.03.20:953][532]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_2.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-00.03.20:954][532]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=19316.481 Y=-2234.119 Z=144.113] for [BP_AI_Enemy_C]
+[2024.04.15-00.03.20:954][532]LogBlueprintUserMessages: [BP_Initiate_Sequence_C_UAID_D8F3BC56204020EC01_1551444007] AI Spawn
+[2024.04.15-00.03.21:358][552]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.22:396][602]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.23:405][648]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.24:445][691]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.25:462][734]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.26:470][778]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.27:497][827]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.28:505][875]LogBlueprintUserMessages: [BP_AI_Enemy_C_UAID_D8F3BC562040DAEA01_1860183631] Hit Delay
+[2024.04.15-00.03.32:256][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.03.32:256][ 54]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-00.03.32:256][ 54]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.03.32:258][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.03.32:258][ 54]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-00.03.32:293][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.03.32:300][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.03.32:317][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.03.32:322][ 54]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.15-00.03.32:322][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.15-00.03.32:324][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.15-00.03.32:333][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.15-00.03.32:467][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.04.15-00.03.32:550][ 55]LogViewport: Scene viewport resized to 1038x642, mode Windowed.
+[2024.04.15-00.03.40:626][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.03.40:730][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-00.03.40:749][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.15-00.03.40:763][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.15-00.03.40:770][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.30 sec)
