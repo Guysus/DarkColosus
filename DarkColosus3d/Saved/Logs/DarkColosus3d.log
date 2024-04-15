@@ -2574,3 +2574,938 @@ Please see Output Log for details.
 [2024.04.15-14.19.25:279][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.97 sec)
 [2024.04.15-14.19.25:281][723]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
 [2024.04.15-14.19.25:281][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.15-14.20.24:536][739]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.15-14.20.24:542][739]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.15-14.20.24:551][739]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.15-14.20.24:571][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.15-14.20.32:943][738]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Death
+[2024.04.15-14.20.32:949][738]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.15-14.20.41:412][519]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.15-14.20.41:418][519]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.15-14.20.41:427][519]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.15-14.20.41:442][520]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.15-14.20.46:347][107]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Win
+[2024.04.15-14.20.46:352][107]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.15-14.21.01:823][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.21.01:853][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Initiate_Sequence" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset" SILENT=true
+[2024.04.15-14.21.01:863][800]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Initiate_Sequence
+[2024.04.15-14.21.01:863][800]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/BP_Initiate_Sequence03328F7F4F2B4404E612998202399A68.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/BP_Initiate_Sequence.uasset'
+[2024.04.15-14.21.01:868][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.02 sec)
+[2024.04.15-14.21.01:870][800]AssetCheck: New page: Asset Save: BP_Initiate_Sequence
+[2024.04.15-14.21.01:870][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Initiate_Sequence.BP_Initiate_Sequence
+[2024.04.15-14.25.50:233][842]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.25.50:233][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.25.50:233][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.25.50:240][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.25.50:240][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.25.50:429][842]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.15-14.25.54:355][265]LogSlate: Window 'WB_Death' being destroyed
+[2024.04.15-14.26.33:549][846]LogInterchangeEngine: [Pending] Importing
+[2024.04.15-14.26.33:549][846]LogInterchangeEngine: Display: Interchange start importing source [D:/Unreal Projects/D...DarkColosus3d/Images/death.jpg]
+[2024.04.15-14.26.33:579][847]LogInterchangeImport: JPEG file [D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Images/death.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.15-14.26.33:581][847]LogInterchangeEngine: [Pending] Importing
+[2024.04.15-14.26.33:875][847]LogTexture: Display: Building textures: /Game/Blueprints/Widgets/death.death (TFO_AutoDXT, 2160x1080 x1x1x1) (Required Memory Estimate: 179.666992 MB), EncodeSpeed: Fast
+[2024.04.15-14.26.33:891][847]LogInterchangeEngine: [Success] Import Done
+[2024.04.15-14.26.33:945][848]LogInterchangeEngine: [Success] Import Done
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: ================================================
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Total job queries 694, among them cache hits 193 (27.81%)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Tracking 495 distinct input hashes that result in 383 distinct outputs (77.37%)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: RAM used: 12.78 MiB of 6.40 GiB budget. Usage: 0.20%
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 0.34 s
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Job life time (pending + execution): average 0.41 s, max 0.41
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Shader code size: average 33.943 KiB, min 32.336 KiB, max 35.551 KiB
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.41 s
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Average processing rate: 4.87 jobs/sec
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Total thread time: 0.223 s
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Total thread preprocess time: 0.039 s
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Percentage time preprocessing: 17.44%
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 50.33% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 49.67% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2024.04.15-14.26.39:954][246]LogShaderCompilers: Display: ================================================
+[2024.04.15-14.27.39:331][166]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.27.39:356][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.15-14.27.39:463][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.27.39:505][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.27.39:508][166]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.27.39:508][166]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death19316C03499957F8F14A799D83FF6B8C.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.27.39:515][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.07 sec)
+[2024.04.15-14.27.39:522][166]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.27.39:522][166]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.27.54:050][870]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.28.27:141][770]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.28.27:163][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.15-14.28.27:275][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.28.27:322][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.28.27:326][770]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.28.27:326][770]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death0603B0B4483E364E79BD20ADBA3A7C98.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.28.27:330][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.13 sec)
+[2024.04.15-14.28.27:339][770]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.28.27:339][770]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.28.47:717][185]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.28.47:739][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.15-14.28.47:886][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.28.47:923][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.28.47:927][185]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.28.47:927][185]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death3C1C01074F5B494B4C0A039745FBAA4C.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.28.47:930][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.17 sec)
+[2024.04.15-14.28.47:943][185]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.28.47:943][185]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.29.15:055][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.15-14.29.15:058][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.04.15-14.29.15:058][348]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Widgets/WB_Win] ([2] browsable assets)...
+[2024.04.15-14.29.15:060][348]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/Widgets/WB_Win.WB_Win]
+[2024.04.15-14.29.15:060][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/WB_Win]
+[2024.04.15-14.29.15:062][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/WB_Win_Auto2
+[2024.04.15-14.29.15:062][348]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Win_Auto2ADB1003D4CA578DFF79A3C95672EBDB2.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Autosaves/Game/Blueprints/Widgets/WB_Win_Auto2.uasset'
+[2024.04.15-14.29.15:062][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Widgets/death] ([1] browsable assets)...
+[2024.04.15-14.29.15:064][348]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/Widgets/death.death]
+[2024.04.15-14.29.15:064][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Widgets/death]
+[2024.04.15-14.29.15:065][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Widgets/death_Auto2
+[2024.04.15-14.29.15:065][348]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/death_Auto25CD6330548ED4EE58C12CB966F545448.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/Autosaves/Game/Blueprints/Widgets/death_Auto2.uasset'
+[2024.04.15-14.29.15:065][348]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.04.15-14.29.46:066][ 65]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.15-14.29.46:066][ 65]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.15-14.30.14:611][490]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.15-14.30.52:056][939]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.30.58:306][641]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.03:056][186]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.08:697][830]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.14:190][456]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.20:448][184]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.25:707][785]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.42:324][748]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.31.57:842][563]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.32.10:434][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.32.22:415][437]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.15-14.32.26:492][924]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.32.26:514][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.15-14.32.26:619][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.32.26:664][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.32.26:668][924]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.32.26:668][924]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death1753C1F2473F2F32E8084CB76535FFB6.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.32.26:672][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.22 sec)
+[2024.04.15-14.32.26:680][924]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.32.26:680][924]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.32.27:617][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.32.27:644][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.32.27:648][ 18]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.32.27:648][ 18]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death8B9B201848330E6097871CB40A9A1174.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.32.27:653][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 2.26 sec)
+[2024.04.15-14.32.27:655][ 18]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.32.27:655][ 18]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.33.12:316][322]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.33.12:336][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.15-14.33.12:480][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.33.12:515][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.33.12:519][322]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.33.12:519][322]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death24BA360C43330834472A7C9AECE98692.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.33.12:523][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 2.30 sec)
+[2024.04.15-14.33.12:535][322]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.33.12:535][322]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.33.13:636][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.33.13:663][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.33.13:667][435]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.33.13:667][435]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathA21F6D804F32F686C07409A2EB99D007.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.33.13:670][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 2.34 sec)
+[2024.04.15-14.33.13:673][435]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.33.13:673][435]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.33.20:378][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.33.20:431][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.33.20:434][226]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.33.20:435][226]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death3FA7AD7341E9622BC5CB919CCDD1BC92.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.33.20:438][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.40 sec)
+[2024.04.15-14.33.20:440][226]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.33.20:440][226]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.33.54:758][173]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.33.54:781][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.15-14.33.54:792][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.33.54:834][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.33.54:839][173]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.33.54:839][173]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death28BAAEB84F460711980DCBB2C1E83273.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.33.54:842][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.45 sec)
+[2024.04.15-14.33.54:844][173]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.33.54:844][173]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.34.02:719][ 74]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.34.02:742][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.15-14.34.02:752][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.34.02:801][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.34.02:806][ 74]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.34.02:806][ 74]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathF02438CF440BB58EEF34B9802D94A6C7.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.34.02:810][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2.50 sec)
+[2024.04.15-14.34.02:812][ 74]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.34.02:812][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.34.03:744][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.34.03:799][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.34.03:803][173]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.34.03:804][173]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathE989E0A84314852FF39CF0B7191F1CBC.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.34.03:807][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.57 sec)
+[2024.04.15-14.34.03:809][173]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.34.03:809][173]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.34.05:443][366]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-14.34.05:449][366]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-14.34.05:449][366]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-14.34.05:451][366]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 757 ms)
+[2024.04.15-14.34.05:451][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-14.34.05:451][366]PIE: New page: PIE session: ThirdPersonMap (Apr. 15, 2024, 12:34:05 a.m.)
+[2024.04.15-14.34.05:452][366]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.34.06:182][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.730646s)
+[2024.04.15-14.34.06:182][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.730677s)
+[2024.04.15-14.34.06:196][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.15-14.34.06:199][366]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.34.06:199][366]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.34.06:199][366]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-14.34.06:200][366]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-14.34.06:200][366]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-14.34.06:200][366]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-14.34.06:200][366]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-14.34.06:469][366]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-14.34.06:469][366]LogWorldPartition: Display: WorldPartition initialize took 268 ms (total: 6.63 sec)
+[2024.04.15-14.34.06:469][366]LogPlayLevel: PIE: World Init took: (0.269808s)
+[2024.04.15-14.34.06:469][366]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-14.34.06:469][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-14.34.06:469][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-14.34.06:470][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-14.34.06:470][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-14.34.06:470][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-14.34.06:471][366]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-14.34.06:489][366]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-14.34.06:489][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-14.34.06:489][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-14.34.06:489][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-14.34.06:490][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.15-14.34.06:490][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.15-14.34.06:491][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.15-14.34.06:491][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.15-14.34.06:491][366]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.15-14.34.06:491][366]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2024.04.15-14.34.06:491][366]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.15-14.34.06:541][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.34.06:541][366]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-14.34.06:645][366]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.34.06:645][366]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.34.06:645][366]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.15-07.34.06
+[2024.04.15-14.34.06:646][366]LogWorld: Bringing up level for play took: 0.104675
+[2024.04.15-14.34.06:648][366]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.04.15-14.34.06:649][366]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.34.06:649][366]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.34.06:650][366]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.34.06:650][366]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.34.06:654][366]PIE: Server logged in
+[2024.04.15-14.34.06:654][366]PIE: Play in editor total start time 1.204 seconds.
+[2024.04.15-14.34.06:659][366]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'intense-drum-sequence'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.34.06:663][366]LogViewport: Scene viewport resized to 3831x2040, mode Windowed.
+[2024.04.15-14.34.08:628][426]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-14.34.23:817][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.34.23:817][ 24]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.34.23:818][ 24]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-14.34.23:821][ 24]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.34.23:823][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.34.23:824][ 24]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-14.34.23:826][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-14.34.23:832][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.34.23:851][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-14.34.23:852][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.15-14.34.23:852][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.15-14.34.23:854][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.15-14.34.23:863][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.15-14.34.23:895][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.15-14.35.11:441][921]BlueprintLog: New page: Compile SunWukongPlayerCharacter
+[2024.04.15-14.35.11:496][921]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.35.11:496][921]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.35.11:522][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-14.35.11:542][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:542][921]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.35.11:595][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:595][921]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Engine/Transient.World_9:PersistentLevel.BP_AI_Enemy_C_0.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.11:596][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:596][921]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Engine/Transient.World_2:PersistentLevel.BP_AI_Enemy_C_0.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.11:597][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:597][921]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.11:631][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:631][921]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.35.11:635][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:635][921]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Engine/Transient.World_9:PersistentLevel.BP_AI_Enemy_C_0.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.11:636][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:636][921]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Engine/Transient.World_2:PersistentLevel.BP_AI_Enemy_C_0.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.11:637][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:637][921]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.11:641][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.35.11:668][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.35.11:675][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:676][921]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.35.11:676][921]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.35.11:676][921]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.35.11:751][921]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.35.11:759][921]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.11:759][921]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.35.11:759][921]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.35.11:759][921]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.35.11:814][921]LogSavePackage: Moving output files for package: /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter
+[2024.04.15-14.35.11:814][921]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/SunWukongPlayerCharacterD0C1F946481DE7E7E5E42B830F7A1005.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.uasset'
+[2024.04.15-14.35.11:820][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 2.75 sec)
+[2024.04.15-14.35.11:822][921]AssetCheck: New page: Asset Save: SunWukongPlayerCharacter
+[2024.04.15-14.35.11:822][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.SunWukongPlayerCharacter
+[2024.04.15-14.35.12:967][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.35.13:057][ 25]LogSavePackage: Moving output files for package: /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter
+[2024.04.15-14.35.13:058][ 25]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/SunWukongPlayerCharacter64B0E2954CE8C40AB9718CA28F4971BE.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.uasset'
+[2024.04.15-14.35.13:062][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 2.84 sec)
+[2024.04.15-14.35.13:063][ 25]AssetCheck: New page: Asset Save: SunWukongPlayerCharacter
+[2024.04.15-14.35.13:063][ 25]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ParagonSunWukong/Characters/Heroes/Wukong/SunWukongPlayerCharacter.SunWukongPlayerCharacter
+[2024.04.15-14.35.14:853][227]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-14.35.14:859][227]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-14.35.14:859][227]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-14.35.14:861][227]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 759 ms)
+[2024.04.15-14.35.14:861][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-14.35.14:861][227]PIE: New page: PIE session: ThirdPersonMap (Apr. 15, 2024, 12:35:14 a.m.)
+[2024.04.15-14.35.14:861][227]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.35.15:569][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.707359s)
+[2024.04.15-14.35.15:569][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.707390s)
+[2024.04.15-14.35.15:586][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.15-14.35.15:589][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.35.15:589][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.35.15:589][227]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-14.35.15:590][227]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-14.35.15:590][227]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-14.35.15:590][227]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-14.35.15:590][227]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-14.35.15:866][227]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-14.35.15:866][227]LogWorldPartition: Display: WorldPartition initialize took 276 ms (total: 6.91 sec)
+[2024.04.15-14.35.15:866][227]LogPlayLevel: PIE: World Init took: (0.277193s)
+[2024.04.15-14.35.15:866][227]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-14.35.15:866][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-14.35.15:866][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-14.35.15:867][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-14.35.15:867][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-14.35.15:867][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-14.35.15:868][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-14.35.15:884][227]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-14.35.15:884][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-14.35.15:885][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-14.35.15:885][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-14.35.15:885][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.15-14.35.15:885][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.15-14.35.15:886][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.15-14.35.15:886][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.15-14.35.15:886][227]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.15-14.35.15:886][227]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2024.04.15-14.35.15:886][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.15-14.35.15:925][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.35.15:925][227]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-14.35.16:023][227]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.16:023][227]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.35.16:024][227]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.15-07.35.16
+[2024.04.15-14.35.16:024][227]LogWorld: Bringing up level for play took: 0.098827
+[2024.04.15-14.35.16:026][227]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.15-14.35.16:027][227]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.35.16:027][227]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.35.16:028][227]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.35.16:028][227]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.35.16:039][227]PIE: Server logged in
+[2024.04.15-14.35.16:044][227]PIE: Play in editor total start time 1.185 seconds.
+[2024.04.15-14.35.16:049][227]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'intense-drum-sequence'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.35.16:063][227]LogViewport: Scene viewport resized to 3831x2060, mode Windowed.
+[2024.04.15-14.35.18:038][289]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-14.35.35:037][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.35.35:037][  6]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.35.35:037][  6]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-14.35.35:041][  6]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.35.35:043][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.35.35:043][  6]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-14.35.35:045][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-14.35.35:051][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.35.35:066][  6]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.15-14.35.35:066][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.15-14.35.35:068][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.15-14.35.35:083][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.15-14.35.35:109][  7]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.15-14.36.57:518][584]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.36.57:548][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.15-14.36.57:553][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.36.57:554][584]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.36.57:555][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.36.57:555][584]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.36.57:557][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.36.57:557][584]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.36.57:615][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.36.57:615][584]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.36.57:616][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.36.57:616][584]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.36.57:618][584]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.36.57:618][584]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.36.57:624][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.36.57:673][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.36.57:679][584]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.36.57:679][584]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathBDF344DD43AB1203F960BA90AB052846.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.36.57:683][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.90 sec)
+[2024.04.15-14.36.57:684][584]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.36.57:684][584]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.37.07:423][688]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.37.07:453][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.15-14.37.07:457][688]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.07:457][688]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.37.07:459][688]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.07:459][688]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.07:460][688]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.07:460][688]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.07:470][688]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.07:470][688]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.37.07:471][688]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.07:471][688]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.07:472][688]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.07:472][688]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.08:916][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.37.08:974][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.37.08:979][849]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.37.08:979][849]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death184A15C943EB18680D4FE19B154A33D8.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.37.08:984][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.97 sec)
+[2024.04.15-14.37.08:985][849]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.37.08:985][849]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.37.10:200][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-14.37.10:206][987]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-14.37.10:206][987]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-14.37.10:208][987]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 760 ms)
+[2024.04.15-14.37.10:208][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-14.37.10:208][987]PIE: New page: PIE session: ThirdPersonMap (Apr. 15, 2024, 12:37:10 a.m.)
+[2024.04.15-14.37.10:208][987]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.37.10:942][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.733427s)
+[2024.04.15-14.37.10:942][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.733455s)
+[2024.04.15-14.37.10:959][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.15-14.37.10:962][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.37.10:962][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.37.10:963][987]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-14.37.10:963][987]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-14.37.10:963][987]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-14.37.10:963][987]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-14.37.10:963][987]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-14.37.11:228][987]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-14.37.11:228][987]LogWorldPartition: Display: WorldPartition initialize took 265 ms (total: 7.17 sec)
+[2024.04.15-14.37.11:228][987]LogPlayLevel: PIE: World Init took: (0.266144s)
+[2024.04.15-14.37.11:228][987]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-14.37.11:228][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-14.37.11:228][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-14.37.11:228][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-14.37.11:228][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-14.37.11:228][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-14.37.11:230][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-14.37.11:247][987]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-14.37.11:247][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-14.37.11:247][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-14.37.11:247][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-14.37.11:247][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.15-14.37.11:247][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.04.15-14.37.11:249][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.15-14.37.11:249][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.15-14.37.11:249][987]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.15-14.37.11:249][987]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2024.04.15-14.37.11:249][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.15-14.37.11:314][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.37.11:314][987]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-14.37.11:416][987]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.11:416][987]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.37.11:416][987]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.15-07.37.11
+[2024.04.15-14.37.11:417][987]LogWorld: Bringing up level for play took: 0.103004
+[2024.04.15-14.37.11:419][987]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.04.15-14.37.11:420][987]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.11:420][987]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.11:420][987]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.37.11:421][987]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.37.11:425][987]PIE: Server logged in
+[2024.04.15-14.37.11:425][987]PIE: Play in editor total start time 1.219 seconds.
+[2024.04.15-14.37.11:430][987]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'intense-drum-sequence'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.37.11:434][987]LogViewport: Scene viewport resized to 3831x2080, mode Windowed.
+[2024.04.15-14.37.13:407][ 47]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-14.37.15:652][135]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 191135
+[2024.04.15-14.37.15:653][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.37.15:698][136]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.15-14.37.15:699][136]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.04.15-14.37.15:703][136]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.15-14.37.15:704][136]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.15-14.37.15:706][136]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.04.15-14.37.23:797][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.37.23:797][468]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.37.23:798][468]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-14.37.23:804][468]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.37.23:805][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.37.23:805][468]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-14.37.23:807][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-14.37.23:814][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.37.23:832][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-14.37.23:832][468]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.15-14.37.23:832][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.15-14.37.23:834][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.15-14.37.23:849][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.15-14.37.23:867][469]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.04.15-14.37.59:510][510]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.37.59:536][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.15-14.37.59:542][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.59:542][510]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.37.59:544][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.59:544][510]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.59:545][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.59:545][510]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.59:554][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.59:554][510]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.37.59:556][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.59:556][510]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.59:557][510]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.37.59:557][510]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.37.59:563][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.37.59:610][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.37.59:615][510]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.37.59:615][510]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death1650F91D4F6528FDFAD6AFA2837DD839.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.37.59:620][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.03 sec)
+[2024.04.15-14.37.59:621][510]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.37.59:621][510]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.38.00:560][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.38.00:606][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.38.00:612][608]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.38.00:612][608]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death3ED88B774EE5744597DF83A121C6ECC1.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.38.00:616][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 3.08 sec)
+[2024.04.15-14.38.00:617][608]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.38.00:617][608]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.38.01:577][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-14.38.01:582][715]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-14.38.01:582][715]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-14.38.01:584][715]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 762 ms)
+[2024.04.15-14.38.01:584][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-14.38.01:584][715]PIE: New page: PIE session: ThirdPersonMap (Apr. 15, 2024, 12:38:01 a.m.)
+[2024.04.15-14.38.01:585][715]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.38.02:301][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.716120s)
+[2024.04.15-14.38.02:301][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.716157s)
+[2024.04.15-14.38.02:318][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.15-14.38.02:321][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.38.02:321][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.38.02:322][715]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-14.38.02:322][715]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-14.38.02:322][715]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-14.38.02:322][715]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-14.38.02:322][715]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-14.38.02:582][715]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-14.38.02:582][715]LogWorldPartition: Display: WorldPartition initialize took 260 ms (total: 7.43 sec)
+[2024.04.15-14.38.02:582][715]LogPlayLevel: PIE: World Init took: (0.261630s)
+[2024.04.15-14.38.02:583][715]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-14.38.02:583][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-14.38.02:583][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-14.38.02:583][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-14.38.02:583][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-14.38.02:583][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-14.38.02:585][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-14.38.02:600][715]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-14.38.02:601][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-14.38.02:601][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-14.38.02:601][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-14.38.02:601][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.15-14.38.02:601][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.15-14.38.02:603][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.15-14.38.02:603][715]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.15-14.38.02:603][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.15-14.38.02:603][715]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2024.04.15-14.38.02:603][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.15-14.38.02:666][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.38.02:666][715]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-14.38.02:763][715]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.38.02:764][715]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.38.02:764][715]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.15-07.38.02
+[2024.04.15-14.38.02:765][715]LogWorld: Bringing up level for play took: 0.098636
+[2024.04.15-14.38.02:767][715]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.04.15-14.38.02:768][715]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.38.02:768][715]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.38.02:768][715]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.38.02:768][715]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.38.02:773][715]PIE: Server logged in
+[2024.04.15-14.38.02:773][715]PIE: Play in editor total start time 1.19 seconds.
+[2024.04.15-14.38.02:778][715]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'intense-drum-sequence'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.38.02:782][715]LogViewport: Scene viewport resized to 3831x2100, mode Windowed.
+[2024.04.15-14.38.04:759][776]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-14.38.13:984][149]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.15-14.38.13:984][149]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.04.15-14.38.24:357][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.38.24:357][568]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.38.24:357][568]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-14.38.24:361][568]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.38.24:363][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.38.24:363][568]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-14.38.24:365][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-14.38.24:372][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.38.24:395][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-14.38.24:395][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.15-14.38.24:396][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.15-14.38.24:397][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.15-14.38.24:407][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.15-14.38.24:426][569]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.04.15-14.39.11:239][856]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.39.11:266][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.15-14.39.11:272][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.11:272][856]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.39.11:274][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.11:274][856]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.11:275][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.11:275][856]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.11:286][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.11:286][856]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.39.11:287][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.11:288][856]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.11:289][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.11:289][856]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.11:295][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.39.11:344][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.39.11:351][856]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.39.11:351][856]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death8EE5128F4C12D87620934D8239A8D6B0.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.39.11:355][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.14 sec)
+[2024.04.15-14.39.11:356][856]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.39.11:356][856]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.39.12:104][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.39.12:160][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.39.12:166][932]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.39.12:166][932]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death635ED762465D25D17B29A4B494DBE634.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.39.12:169][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.21 sec)
+[2024.04.15-14.39.12:171][932]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.39.12:171][932]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.39.13:222][ 56]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-14.39.13:228][ 56]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-14.39.13:228][ 56]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-14.39.13:230][ 56]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 764 ms)
+[2024.04.15-14.39.13:230][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-14.39.13:230][ 56]PIE: New page: PIE session: ThirdPersonMap (Apr. 15, 2024, 12:39:13 a.m.)
+[2024.04.15-14.39.13:230][ 56]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.39.13:940][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.710963s)
+[2024.04.15-14.39.13:940][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.710993s)
+[2024.04.15-14.39.13:955][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.15-14.39.13:959][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.39.13:959][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.39.13:959][ 56]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-14.39.13:960][ 56]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-14.39.13:960][ 56]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-14.39.13:960][ 56]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-14.39.13:960][ 56]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-14.39.14:222][ 56]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-14.39.14:222][ 56]LogWorldPartition: Display: WorldPartition initialize took 262 ms (total: 7.69 sec)
+[2024.04.15-14.39.14:222][ 56]LogPlayLevel: PIE: World Init took: (0.263119s)
+[2024.04.15-14.39.14:223][ 56]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-14.39.14:223][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-14.39.14:223][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-14.39.14:223][ 56]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-14.39.14:223][ 56]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-14.39.14:223][ 56]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-14.39.14:225][ 56]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-14.39.14:241][ 56]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-14.39.14:241][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-14.39.14:241][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-14.39.14:241][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-14.39.14:242][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.04.15-14.39.14:242][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.04.15-14.39.14:243][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.04.15-14.39.14:243][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.04.15-14.39.14:243][ 56]LogInit: FAudioDevice initialized with ID 18.
+[2024.04.15-14.39.14:243][ 56]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2024.04.15-14.39.14:243][ 56]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.15-14.39.14:301][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.39.14:301][ 56]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-14.39.14:404][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.14:404][ 56]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.39.14:405][ 56]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.15-07.39.14
+[2024.04.15-14.39.14:406][ 56]LogWorld: Bringing up level for play took: 0.103867
+[2024.04.15-14.39.14:408][ 56]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.04.15-14.39.14:409][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.14:409][ 56]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.14:410][ 56]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.39.14:410][ 56]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.39.14:414][ 56]PIE: Server logged in
+[2024.04.15-14.39.14:414][ 56]PIE: Play in editor total start time 1.187 seconds.
+[2024.04.15-14.39.14:419][ 56]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'intense-drum-sequence'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.39.14:424][ 56]LogViewport: Scene viewport resized to 3831x2120, mode Windowed.
+[2024.04.15-14.39.16:399][117]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-14.39.16:400][117]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.15-14.39.29:779][646]Cmd: quit
+[2024.04.15-14.39.29:780][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.39.29:780][646]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.39.29:781][646]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-14.39.29:836][646]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.39.29:838][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.39.29:838][646]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-14.39.29:841][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-14.39.29:847][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.39.29:866][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-14.39.29:868][646]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.15-14.39.29:868][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.15-14.39.29:869][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.15-14.39.29:880][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.04.15-14.39.29:900][647]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.04.15-14.39.58:658][991]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.39.58:686][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.15-14.39.58:690][991]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.58:690][991]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.39.58:692][991]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.58:692][991]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.58:694][991]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.58:694][991]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.58:705][991]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.58:705][991]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.39.58:706][991]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.58:706][991]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.58:707][991]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.39.58:707][991]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.39.58:713][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.39.58:747][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.39.58:753][991]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.39.58:753][991]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death01D37084415B6686037F278867211F26.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.39.58:758][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 3.25 sec)
+[2024.04.15-14.39.58:759][991]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.39.58:759][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.40.08:413][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.40.24:842][  8]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.40.24:871][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.15-14.40.24:877][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.24:877][  8]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.40.24:879][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.24:879][  8]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.40.24:880][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.24:880][  8]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.40.24:891][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.24:891][  8]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.40.24:893][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.24:893][  8]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.40.24:894][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.24:894][  8]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.40.24:901][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.40.24:932][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.40.24:938][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.40.24:938][  8]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathB6001C4C4F471CABEE9003AC4896F80F.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.40.24:942][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 3.29 sec)
+[2024.04.15-14.40.24:944][  8]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.40.24:944][  8]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.40.26:309][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.40.26:345][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.40.26:351][162]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.40.26:352][162]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathFC700C2D42748B9D81D9A1B6688BAD89.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.40.26:356][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 3.34 sec)
+[2024.04.15-14.40.26:357][162]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.40.26:357][162]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.40.27:575][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-14.40.27:581][300]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.15-14.40.27:581][300]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.04.15-14.40.27:583][300]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 766 ms)
+[2024.04.15-14.40.27:583][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-14.40.27:583][300]PIE: New page: PIE session: ThirdPersonMap (Apr. 15, 2024, 12:40:27 a.m.)
+[2024.04.15-14.40.27:583][300]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.40.28:290][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.707311s)
+[2024.04.15-14.40.28:290][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.707343s)
+[2024.04.15-14.40.28:307][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.15-14.40.28:310][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.40.28:310][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.40.28:311][300]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.15-14.40.28:311][300]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-14.40.28:311][300]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-14.40.28:311][300]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.15-14.40.28:311][300]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-14.40.28:573][300]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.15-14.40.28:573][300]LogWorldPartition: Display: WorldPartition initialize took 260 ms (total: 7.95 sec)
+[2024.04.15-14.40.28:573][300]LogPlayLevel: PIE: World Init took: (0.261768s)
+[2024.04.15-14.40.28:573][300]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-14.40.28:573][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-14.40.28:573][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-14.40.28:573][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-14.40.28:573][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-14.40.28:573][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-14.40.28:575][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-14.40.28:590][300]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2024.04.15-14.40.28:591][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-14.40.28:591][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-14.40.28:591][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-14.40.28:591][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.15-14.40.28:591][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.15-14.40.28:592][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.15-14.40.28:592][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.15-14.40.28:592][300]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.15-14.40.28:593][300]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2024.04.15-14.40.28:593][300]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.15-14.40.28:636][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.40.28:636][300]LogLoad: Game class is 'TestGameMode_C'
+[2024.04.15-14.40.28:733][300]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.28:733][300]LogScript: Warning: Script Msg called by: Steel_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_Enemy_C_UAID_D8F3BC56204028EC01_1587159415.CharacterMesh0.Steel_AnimBlueprint_C_0
+[2024.04.15-14.40.28:733][300]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.15-07.40.28
+[2024.04.15-14.40.28:734][300]LogWorld: Bringing up level for play took: 0.096148
+[2024.04.15-14.40.28:736][300]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.04.15-14.40.28:737][300]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.28:737][300]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.40.28:737][300]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2024.04.15-14.40.28:737][300]LogSkeletalMesh: Display: OnRegister[/Game/ParagonSunWukong/Characters/Heroes/Wukong/Meshes/Wukong.Wukong]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2024.04.15-14.40.28:742][300]PIE: Server logged in
+[2024.04.15-14.40.28:742][300]PIE: Play in editor total start time 1.161 seconds.
+[2024.04.15-14.40.28:747][300]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'intense-drum-sequence'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.40.28:752][300]LogViewport: Scene viewport resized to 3831x2140, mode Windowed.
+[2024.04.15-14.40.30:730][361]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSteel/Characters/Heroes/Steel/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.04.15-14.40.52:863][241]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.15-14.40.52:863][241]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.15-14.40.52:863][241]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.15-14.40.52:864][241]LogNet: Browse: /Game/Blueprints/Levels/MainMenu
+[2024.04.15-14.40.52:864][241]LogLoad: LoadMap: /Game/Blueprints/Levels/MainMenu
+[2024.04.15-14.40.52:864][241]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.15-14.40.52:864][241]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.40.52:866][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.40.52:866][241]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.15-14.40.52:907][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-14.40.52:912][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.15-14.40.52:969][241]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenu'.
+[2024.04.15-14.40.52:969][241]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-14.40.52:970][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-14.40.52:970][241]LogAIModule: Creating AISystem for world MainMenu
+[2024.04.15-14.40.52:970][241]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2024.04.15-14.40.52:970][241]LogLoad: Game class is 'BP_Main_Menu_C'
+[2024.04.15-14.40.52:993][241]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.40.52:993][241]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.SunWukongPlayerCharacter_C_3.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.40.52:999][241]LogWorld: Bringing World /Game/Blueprints/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.04.15-07.40.52
+[2024.04.15-14.40.53:000][241]LogWorld: Bringing up level for play took: 0.027924
+[2024.04.15-14.40.53:000][241]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.15-14.40.53:001][241]LogLevelSequence: Starting new camera cut: 'CameraActor_2'
+[2024.04.15-14.40.53:001][241]LogLoad: Took 0.137246 seconds to LoadMap(/Game/Blueprints/Levels/MainMenu)
+[2024.04.15-14.40.53:009][241]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'japan-chill-relax'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: ================================================
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Total job queries 700, among them cache hits 199 (28.43%)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Tracking 501 distinct input hashes that result in 387 distinct outputs (77.25%)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: RAM used: 12.95 MiB of 6.40 GiB budget. Usage: 0.20%
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 0.54 s
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.62
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Shader code size: average 35.234 KiB, min 31.422 KiB, max 42.973 KiB
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.62 s
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Average processing rate: 12.91 jobs/sec
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Total thread time: 1.635 s
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Total thread preprocess time: 0.184 s
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Percentage time preprocessing: 11.23%
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 13.88% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.84% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.34% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                                  FVelocityVS - 11.87% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.83% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.15-14.40.53:020][242]LogShaderCompilers: Display: ================================================
+[2024.04.15-14.40.55:208][327]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSunWukong/Characters/Heroes/Wukong/Animations/SelectScreen_Start_Montage.SelectScreen_Start_Montage'
+[2024.04.15-14.41.00:574][543]Cmd: quit
+[2024.04.15-14.41.00:575][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-14.41.00:575][543]LogWorld: BeginTearingDown for /Game/Blueprints/Levels/UEDPIE_0_MainMenu
+[2024.04.15-14.41.00:575][543]LogSlate: Window 'DarkColosus3d Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.15-14.41.00:637][543]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-14.41.00:639][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.41.00:641][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-14.41.00:648][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-14.41.00:666][543]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.15-14.41.00:666][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.15-14.41.00:667][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.15-14.41.00:678][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.15-14.41.00:700][544]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.04.15-14.41.45:725][822]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.41.45:748][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.15-14.41.45:754][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.41.45:754][822]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.41.45:755][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.41.45:755][822]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.41.45:757][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.41.45:757][822]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.41.45:768][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.41.45:768][822]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.41.45:770][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.41.45:770][822]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.41.45:772][822]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.41.45:772][822]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.41.45:778][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.41.45:817][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.41.45:823][822]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.41.45:823][822]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathCC8CEAB34C133F240417B6AF0A9DB061.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.41.45:828][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.39 sec)
+[2024.04.15-14.41.45:829][822]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.41.45:829][822]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.41.47:285][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.41.47:316][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.41.47:322][981]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.41.47:322][981]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathE95BDCE249AEA3AB85ED41AAC218898D.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.41.47:325][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 3.43 sec)
+[2024.04.15-14.41.47:327][981]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.41.47:327][981]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.42.02:536][757]BlueprintLog: New page: Compile WB_Death
+[2024.04.15-14.42.02:565][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.15-14.42.02:572][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.42.02:572][757]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.42.02:574][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.42.02:574][757]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.42.02:575][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.42.02:575][757]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.42.02:586][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.42.02:586][757]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_0:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_1
+[2024.04.15-14.42.02:588][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.42.02:588][757]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.42.02:589][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.15-14.42.02:589][757]LogScript: Warning: Script Msg called by: SunWukong_AnimBlueprint_C /Engine/Transient.World_28:PersistentLevel.SunWukongPlayerCharacter_C_0.CharacterMesh0.SunWukong_AnimBlueprint_C_0
+[2024.04.15-14.42.02:596][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.42.02:635][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.42.02:642][757]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.42.02:642][757]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_Death037703C741E36422818FAFA184D7D009.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.42.02:645][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.48 sec)
+[2024.04.15-14.42.02:648][757]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.42.02:648][757]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
+[2024.04.15-14.42.03:578][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-14.42.03:633][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WB_Death" FILE="D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset" SILENT=true
+[2024.04.15-14.42.03:639][855]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WB_Death
+[2024.04.15-14.42.03:639][855]LogSavePackage: Moving 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Saved/WB_DeathA32145D94124205F47EAB69792D2EC31.tmp' to 'D:/Unreal Projects/DarkColosus/DarkColosus/DarkColosus3d/Content/Blueprints/Widgets/WB_Death.uasset'
+[2024.04.15-14.42.03:642][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.54 sec)
+[2024.04.15-14.42.03:645][855]AssetCheck: New page: Asset Save: WB_Death
+[2024.04.15-14.42.03:645][855]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WB_Death.WB_Death
